@@ -1,32 +1,89 @@
-<!--
-**shinsenter/shinsenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, world! 👋
 
-Here are some ideas to get you started:
+<p>
+<img src="https://github.com/shinsenter.png?size=600" width="300" style="border-radius:10px" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinsenter&show_icons=true&locale=en&layout=compact" width="300"  style="border-radius:10px" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=shinsenter&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nice to meet you!
 
-<h3 align="center">It's me, Shin.</h3>
-<!--
----
+I'm Tan 👋🏻, a software engineer from Vietnam 🇻🇳 passionate about PHP, JavaScript, and modern frameworks.
 
-<p align="center"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
--->
+My specialty is crafting high-performance, user-friendly solutions. By continuously learning and integrating innovations, I propose optimal approaches using the latest technologies. Smooth communication and collaboration are important to me.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinsenter&show_icons=true&locale=en&layout=compact" alt="shinsenter" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shinsenter&label=Profile%20views&color=0e75b6&style=flat" alt="shinsenter" /> </p>
+I'm currently residing in Japan 🇯🇵, immersed in the culture during my free time.
 
 ---
 
-## My stuffs
+#### 🎄 What I'm currently working on
 
-- [Docker directory structure for multiple environments](https://gist.github.com/shinsenter/ac177a7df561674a2bdd3692cf9e0059)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (today)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions. (4 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
+- [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 month ago)
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (3 months ago)
 
-(To be continued)
+---
+
+#### 🎄 My latest projects
+
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`.
+- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code.
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
+- [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
+- [shinsenter/defer-laravel](https://github.com/shinsenter/defer-laravel) - 🚀 A Laravel package that focuses on minimizing payload size of HTML document and optimizing processing on the browser when rendering the web page.
+
+---
+
+#### 🎄 Latest releases I've contributed to
+
+- [laravel/framework](https://github.com/laravel/framework) ([v10.38.0](https://github.com/laravel/framework/releases/tag/v10.38.0), 1 day ago) - The Laravel Framework.
+- [shinsenter/php](https://github.com/shinsenter/php) ([4.8.0](https://github.com/shinsenter/php/releases/tag/4.8.0), 4 days ago) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
+- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 3 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.6.0](https://github.com/shinsenter/defer.js/releases/tag/3.6.0), 9 months ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
+
+---
+
+#### 🎄 Latest PRs I published
+
+- [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (1 month ago)
+- [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
+- [[10.x] Make Validator::getValue() public](https://github.com/laravel/framework/pull/49007) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
+- [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (3 months ago)
+- [Fixed Issue #68 (Got Warning Deprecated)](https://github.com/shinsenter/defer.php/pull/70) on [shinsenter/defer.php](https://github.com/shinsenter/defer.php) (4 months ago)
+
+---
+
+#### 🎄 Recent stars
+
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server (1 day ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (3 days ago)
+- [hammerstonedev/flaky](https://github.com/hammerstonedev/flaky) - Handle intermittent failures caused by unreliable third parties (9 months ago)
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (10 months ago)
+- [michael-rubel/livewire-best-practices](https://github.com/michael-rubel/livewire-best-practices) - Laravel Livewire Best Practices (10 months ago)
+
+---
+
+---
+
+#### 🤝 Support development
+If you find my projects helpful and wish to support continued development, I welcome donations or other contributions.
+
+##### Donate
+I appreciate monetary contributions via [PayPal](https://www.paypal.me/shinsenter) to help fund development costs. Your support is greatly appreciated.
+
+##### Contribute
+If you have suggestions, spot issues, or can contribute code changes, please open GitHub issues or pull requests on my projects. I welcome community input to help expand capabilities and fix problems!
+
+---
+
+#### 📫 Contact me
+
+- Twitter: https://twitter.com/shinsenter
+- Linkedin: https://www.linkedin.com/in/mai-nhut-tan
+
+Together we can build better tools for working. Thank you!
