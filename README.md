@@ -60,7 +60,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Recent stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟‍♀️  (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (5 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (1 week ago)
 - [hammerstonedev/flaky](https://github.com/hammerstonedev/flaky) - Handle intermittent failures caused by unreliable third parties (9 months ago)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (10 months ago)
