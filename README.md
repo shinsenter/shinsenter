@@ -20,7 +20,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (2 days ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (3 days ago)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions. (1 week ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 month ago)
@@ -40,7 +40,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.38.2](https://github.com/laravel/framework/releases/tag/v10.38.2), 2 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.38.2](https://github.com/laravel/framework/releases/tag/v10.38.2), 3 days ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([4.8.0](https://github.com/shinsenter/php/releases/tag/4.8.0), 1 week ago) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 3 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
@@ -54,13 +54,13 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[10.x] Make Validator::getValue() public](https://github.com/laravel/framework/pull/49007) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (3 months ago)
-- [Fixed Issue #68 (Got Warning Deprecated)](https://github.com/shinsenter/defer.php/pull/70) on [shinsenter/defer.php](https://github.com/shinsenter/defer.php) (4 months ago)
+- [Fixed Issue #68 (Got Warning Deprecated)](https://github.com/shinsenter/defer.php/pull/70) on [shinsenter/defer.php](https://github.com/shinsenter/defer.php) (5 months ago)
 
 ---
 
 #### 🎄 Recent stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (6 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (1 week ago)
 - [hammerstonedev/flaky](https://github.com/hammerstonedev/flaky) - Handle intermittent failures caused by unreliable third parties (9 months ago)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (10 months ago)
