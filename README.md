@@ -43,7 +43,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [laravel/framework](https://github.com/laravel/framework) ([v10.39.0](https://github.com/laravel/framework/releases/tag/v10.39.0), 1 week ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([4.8.0](https://github.com/shinsenter/php/releases/tag/4.8.0), 2 weeks ago) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
-- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 3 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
+- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 4 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.6.0](https://github.com/shinsenter/defer.js/releases/tag/3.6.0), 9 months ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
 
 ---
@@ -53,7 +53,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (1 month ago)
 - [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
 - [[10.x] Make Validator::getValue() public](https://github.com/laravel/framework/pull/49007) on [laravel/framework](https://github.com/laravel/framework) (1 month ago)
-- [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (3 months ago)
+- [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
 - [Fixed Issue #68 (Got Warning Deprecated)](https://github.com/shinsenter/defer.php/pull/70) on [shinsenter/defer.php](https://github.com/shinsenter/defer.php) (5 months ago)
 
 ---
