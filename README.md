@@ -20,7 +20,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (1 week ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 week ago)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions. (3 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 month ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 month ago)
@@ -30,7 +30,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 My latest projects
 
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`.
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code.
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
@@ -61,7 +61,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 #### 🎄 Recent stars
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (2 weeks ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - Docker image squashing functionality as an alternative to Docker&#39;s `--squash` flag. It optimizes image sizes while retaining more metadata than `--squash`. (3 weeks ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 weeks ago)
 - [hammerstonedev/flaky](https://github.com/hammerstonedev/flaky) - Handle intermittent failures caused by unreliable third parties (10 months ago)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (11 months ago)
 - [michael-rubel/livewire-best-practices](https://github.com/michael-rubel/livewire-best-practices) - Laravel Livewire Best Practices (11 months ago)
