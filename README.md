@@ -40,17 +40,17 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.40.0](https://github.com/laravel/framework/releases/tag/v10.40.0), 6 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.40.0](https://github.com/laravel/framework/releases/tag/v10.40.0), 1 week ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([4.8.0](https://github.com/shinsenter/php/releases/tag/4.8.0), 1 month ago) - 📦 (PHP) Ubuntu &#43; PHP-FPM &#43; Nginx/Apache2 Docker images with plenty of common and useful extensions.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 4 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.6.0](https://github.com/shinsenter/defer.js/releases/tag/3.6.0), 9 months ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.6.0](https://github.com/shinsenter/defer.js/releases/tag/3.6.0), 10 months ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
 
 ---
 
 #### 🎄 Latest PRs I published
 
-- [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (1 month ago)
+- [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (2 months ago)
 - [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [[10.x] Make Validator::getValue() public](https://github.com/laravel/framework/pull/49007) on [laravel/framework](https://github.com/laravel/framework) (2 months ago)
 - [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
@@ -60,8 +60,8 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Recent stars
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (3 weeks ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (4 weeks ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟 (4 weeks ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 month ago)
 - [hammerstonedev/flaky](https://github.com/hammerstonedev/flaky) - Handle intermittent failures caused by unreliable third parties (10 months ago)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.  (11 months ago)
 - [michael-rubel/livewire-best-practices](https://github.com/michael-rubel/livewire-best-practices) - Laravel Livewire Best Practices (11 months ago)
