@@ -50,11 +50,11 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [Version 5](https://github.com/shinsenter/php/pull/56) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (3 months ago)
 - [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [[10.x] Make Validator::getValue() public](https://github.com/laravel/framework/pull/49007) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [Addressed deprecation errors for compatibility with newer PHP versions](https://github.com/shinsenter/defer-wordpress/pull/63) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (5 months ago)
-- [Fixed Issue #68 (Got Warning Deprecated)](https://github.com/shinsenter/defer.php/pull/70) on [shinsenter/defer.php](https://github.com/shinsenter/defer.php) (6 months ago)
 
 ---
 
