@@ -40,7 +40,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.45.1](https://github.com/laravel/framework/releases/tag/v10.45.1), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.46.0](https://github.com/laravel/framework/releases/tag/v10.46.0), today) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.2](https://github.com/shinsenter/php/releases/tag/5.0.2), 4 days ago) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 5 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 5 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
