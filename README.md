@@ -50,11 +50,11 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (today)
 - [Fixes #59](https://github.com/shinsenter/php/pull/60) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve debug messages](https://github.com/shinsenter/php/pull/58) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [Version 5](https://github.com/shinsenter/php/pull/56) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[10.x] Docs for https://github.com/laravel/framework/pull/49015](https://github.com/laravel/docs/pull/9142) on [laravel/docs](https://github.com/laravel/docs) (3 months ago)
-- [[10.x] Pass the property $validator as a parameter to the $callback Closure](https://github.com/laravel/framework/pull/49015) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 
 ---
 
