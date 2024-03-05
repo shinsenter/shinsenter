@@ -21,7 +21,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 #### 🎄 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation. (today)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (today)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 day ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 months ago)
@@ -40,18 +40,18 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v10.46.0](https://github.com/laravel/framework/releases/tag/v10.46.0), 6 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.46.0](https://github.com/laravel/framework/releases/tag/v10.46.0), 1 week ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.2](https://github.com/shinsenter/php/releases/tag/5.0.2), 1 week ago) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 4 weeks ago) - 🧟 The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 month ago) - 🧟 The modern PHP app server
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 5 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
-- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 5 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
+- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 6 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
 
 ---
 
 #### 🎄 Latest PRs I published
 
-- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (today)
-- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (today)
+- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 day ago)
+- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 day ago)
 - [Fixes #59](https://github.com/shinsenter/php/pull/60) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve debug messages](https://github.com/shinsenter/php/pull/58) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [Version 5](https://github.com/shinsenter/php/pull/56) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
@@ -60,7 +60,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Recent stars
 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (3 days ago)
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (4 days ago)
 - [microsoft/OMS-Agent-for-Linux](https://github.com/microsoft/OMS-Agent-for-Linux) (1 month ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (2 months ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 months ago)
