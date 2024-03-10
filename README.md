@@ -20,9 +20,9 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly. (2 days ago)
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation. (4 days ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (5 days ago)
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation. (5 days ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (3 months ago)
@@ -46,8 +46,8 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.7.0](https://github.com/shinsenter/defer.js/releases/tag/3.7.0), 2 days ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.47.0](https://github.com/laravel/framework/releases/tag/v10.47.0), 4 days ago) - The Laravel Framework.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.7.0](https://github.com/shinsenter/defer.js/releases/tag/3.7.0), 3 days ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.47.0](https://github.com/laravel/framework/releases/tag/v10.47.0), 5 days ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.2](https://github.com/shinsenter/php/releases/tag/5.0.2), 2 weeks ago) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 month ago) - 🧟 The modern PHP app server
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.6.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.6.0), 5 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
@@ -57,9 +57,9 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
-- [For 3.7.0](https://github.com/shinsenter/defer.js/pull/130) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (2 days ago)
-- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (5 days ago)
-- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (5 days ago)
+- [For 3.7.0](https://github.com/shinsenter/defer.js/pull/130) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (3 days ago)
+- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (6 days ago)
+- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (6 days ago)
 - [Fixes #59](https://github.com/shinsenter/php/pull/60) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Improve debug messages](https://github.com/shinsenter/php/pull/58) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [Version 5](https://github.com/shinsenter/php/pull/56) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
