@@ -46,7 +46,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.0.0](https://github.com/laravel/framework/releases/tag/v11.0.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.0.1](https://github.com/laravel/framework/releases/tag/v11.0.1), today) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.3](https://github.com/shinsenter/php/releases/tag/5.0.3), today) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.9.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.9.0), today) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.7.0](https://github.com/shinsenter/defer.js/releases/tag/3.7.0), 5 days ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
