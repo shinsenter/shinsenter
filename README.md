@@ -46,10 +46,10 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.0](https://github.com/laravel/framework/releases/tag/v10.48.0), today) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.3](https://github.com/shinsenter/php/releases/tag/5.0.3), today) - 📦 (PHP) A set of prebuilt PHP Docker images that simplify customization and extension installation.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.9.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.9.0), today) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.7.0](https://github.com/shinsenter/defer.js/releases/tag/3.7.0), 5 days ago) - 🥇 A JavaScript micro-library that helps you lazy load (almost) anything. Defer.js is zero-dependency, super-efficient, and Web Vitals friendly.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.47.0](https://github.com/laravel/framework/releases/tag/v10.47.0), 1 week ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.0](https://github.com/dunglas/frankenphp/releases/tag/v1.1.0), 1 month ago) - 🧟 The modern PHP app server
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 6 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
 
