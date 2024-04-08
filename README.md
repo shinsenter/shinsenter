@@ -57,6 +57,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [[11.x] Prevent crash when handling ConnectionException in HttpClient retry logic](https://github.com/laravel/framework/pull/50955) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [[11.x] Fix Call to undefined method Illuminate\Http\Client\ConnectionException::toException()](https://github.com/laravel/framework/pull/50954) on [laravel/framework](https://github.com/laravel/framework) (today)
 - [For 3.8.0](https://github.com/shinsenter/defer.js/pull/132) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (6 days ago)
 - [[5.x] Add Sulu CMS](https://github.com/shinsenter/php/pull/61) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
@@ -66,7 +67,6 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 month ago)
 - [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/624) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 month ago)
 - [Fixes #59](https://github.com/shinsenter/php/pull/60) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Improve debug messages](https://github.com/shinsenter/php/pull/58) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 
 ---
 
