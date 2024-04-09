@@ -20,11 +20,11 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 What I'm currently working on
 
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (today)
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals. (6 days ago)
+- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (1 day ago)
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals. (1 week ago)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. (2 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (3 weeks ago)
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (3 weeks ago)
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (4 weeks ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 month ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 month ago)
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed. (7 months ago)
@@ -46,22 +46,22 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.2.0](https://github.com/laravel/framework/releases/tag/v11.2.0), 6 days ago) - The Laravel Framework.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 6 days ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.2.0](https://github.com/laravel/framework/releases/tag/v11.2.0), 1 week ago) - The Laravel Framework.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 1 week ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 2 weeks ago) - 🧟 The modern PHP app server
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.0.3](https://github.com/shinsenter/php/releases/tag/5.0.3), 3 weeks ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup.
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.9.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.9.0), 3 weeks ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.0.3](https://github.com/shinsenter/php/releases/tag/5.0.3), 4 weeks ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup.
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.9.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.9.0), 4 weeks ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 7 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
 
 ---
 
 #### 🎄 Latest PRs I published
 
-- [[11.x] Prevent crash when handling ConnectionException in HttpClient retry logic](https://github.com/laravel/framework/pull/50955) on [laravel/framework](https://github.com/laravel/framework) (today)
-- [[11.x] Fix Call to undefined method Illuminate\Http\Client\ConnectionException::toException()](https://github.com/laravel/framework/pull/50954) on [laravel/framework](https://github.com/laravel/framework) (today)
-- [For 3.8.0](https://github.com/shinsenter/defer.js/pull/132) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (6 days ago)
-- [[5.x] Add Sulu CMS](https://github.com/shinsenter/php/pull/61) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [For 2.9.0](https://github.com/shinsenter/defer-wordpress/pull/67) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (3 weeks ago)
+- [[11.x] Prevent crash when handling ConnectionException in HttpClient retry logic](https://github.com/laravel/framework/pull/50955) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
+- [[11.x] Fix Call to undefined method Illuminate\Http\Client\ConnectionException::toException()](https://github.com/laravel/framework/pull/50954) on [laravel/framework](https://github.com/laravel/framework) (1 day ago)
+- [For 3.8.0](https://github.com/shinsenter/defer.js/pull/132) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (1 week ago)
+- [[5.x] Add Sulu CMS](https://github.com/shinsenter/php/pull/61) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
+- [For 2.9.0](https://github.com/shinsenter/defer-wordpress/pull/67) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 weeks ago)
 - [For 2.8.0](https://github.com/shinsenter/defer-wordpress/pull/66) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 weeks ago)
 - [For 3.7.0](https://github.com/shinsenter/defer.js/pull/130) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (1 month ago)
 - [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (1 month ago)
