@@ -46,7 +46,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.4.0](https://github.com/laravel/framework/releases/tag/v11.4.0), today) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.4.0](https://github.com/laravel/framework/releases/tag/v11.4.0), 1 day ago) - The Laravel Framework.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 2 weeks ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.2](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2), 3 weeks ago) - 🧟 The modern PHP app server
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.0.3](https://github.com/shinsenter/php/releases/tag/5.0.3), 1 month ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup.
@@ -74,8 +74,8 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (1 month ago)
-- [microsoft/OMS-Agent-for-Linux](https://github.com/microsoft/OMS-Agent-for-Linux) (2 months ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (3 months ago)
+- [microsoft/OMS-Agent-for-Linux](https://github.com/microsoft/OMS-Agent-for-Linux) (3 months ago)
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (4 months ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (4 months ago)
 
 ---
