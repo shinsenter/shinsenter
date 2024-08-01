@@ -57,6 +57,8 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Added aliases for RoadRunner variant](https://github.com/shinsenter/php/pull/89) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Some minor fixes](https://github.com/shinsenter/php/pull/88) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Various improvements](https://github.com/shinsenter/php/pull/82) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [Removed dependency from polyfill[.]io](https://github.com/shinsenter/defer-wordpress/pull/68) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (1 month ago)
 - [[11.x] Prevent crash when handling ConnectionException in HttpClient retry logic](https://github.com/laravel/framework/pull/50955) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
@@ -65,8 +67,6 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [[5.x] Add Sulu CMS](https://github.com/shinsenter/php/pull/61) on [shinsenter/php](https://github.com/shinsenter/php) (4 months ago)
 - [For 2.9.0](https://github.com/shinsenter/defer-wordpress/pull/67) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
 - [For 2.8.0](https://github.com/shinsenter/defer-wordpress/pull/66) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
-- [For 3.7.0](https://github.com/shinsenter/defer.js/pull/130) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (4 months ago)
-- [docs: remove unnecessary parenthesis](https://github.com/dunglas/frankenphp/pull/627) on [dunglas/frankenphp](https://github.com/dunglas/frankenphp) (5 months ago)
 
 ---
 
