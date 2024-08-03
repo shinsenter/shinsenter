@@ -46,7 +46,6 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.1.0](https://github.com/shinsenter/php/releases/tag/5.1.0), 2 days ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup.
 - [laravel/framework](https://github.com/laravel/framework) ([v11.19.0](https://github.com/laravel/framework/releases/tag/v11.19.0), 4 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.2](https://github.com/dunglas/frankenphp/releases/tag/v1.2.2), 3 weeks ago) - 🧟 The modern PHP app server
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.10.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.10.0), 1 month ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
@@ -57,6 +56,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Use waterfall workflows](https://github.com/shinsenter/php/pull/90) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Added aliases for RoadRunner variant](https://github.com/shinsenter/php/pull/89) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Some minor fixes](https://github.com/shinsenter/php/pull/88) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Various improvements](https://github.com/shinsenter/php/pull/82) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -66,7 +66,6 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [For 3.8.0](https://github.com/shinsenter/defer.js/pull/132) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (4 months ago)
 - [[5.x] Add Sulu CMS](https://github.com/shinsenter/php/pull/61) on [shinsenter/php](https://github.com/shinsenter/php) (4 months ago)
 - [For 2.9.0](https://github.com/shinsenter/defer-wordpress/pull/67) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
-- [For 2.8.0](https://github.com/shinsenter/defer-wordpress/pull/66) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 months ago)
 
 ---
 
