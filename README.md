@@ -56,6 +56,7 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fix tag prefix for stable builds](https://github.com/shinsenter/php/pull/93) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/92) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Display a greeting when building Docker images](https://github.com/shinsenter/php/pull/91) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Use waterfall workflows](https://github.com/shinsenter/php/pull/90) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -65,7 +66,6 @@ I'm currently residing in Japan 🇯🇵, immersed in the culture during my free
 - [Removed dependency from polyfill[.]io](https://github.com/shinsenter/defer-wordpress/pull/68) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (1 month ago)
 - [[11.x] Prevent crash when handling ConnectionException in HttpClient retry logic](https://github.com/laravel/framework/pull/50955) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
 - [[11.x] Fix Call to undefined method Illuminate\Http\Client\ConnectionException::toException()](https://github.com/laravel/framework/pull/50954) on [laravel/framework](https://github.com/laravel/framework) (3 months ago)
-- [For 3.8.0](https://github.com/shinsenter/defer.js/pull/132) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (4 months ago)
 
 ---
 
