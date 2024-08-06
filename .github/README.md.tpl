@@ -10,11 +10,11 @@
 
 Nice to meet you!
 
-I'm Tan 👋🏻, a software engineer from Vietnam 🇻🇳 passionate about PHP, JavaScript, and modern frameworks.
+I'm Tan 👋🏻, a software engineer from Vietnam 🇻🇳 with a passion for PHP, JavaScript and modern frameworks.
 
-My specialty is crafting high-performance, user-friendly solutions. By continuously learning and integrating innovations, I propose optimal approaches using the latest technologies. Smooth communication and collaboration are important to me.
+I specialize in creating high-performance, user-friendly solutions and always seek out the latest innovations. Effective communication and collaboration are key to my work.
 
-I'm currently residing in Japan 🇯🇵, immersed in the culture during my free time.
+Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my free time.
 
 ---
 
