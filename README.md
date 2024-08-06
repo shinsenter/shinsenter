@@ -56,6 +56,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fix updating *.md files to Docker Hub descriptions](https://github.com/shinsenter/php/pull/97) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Enable SBOM attestations](https://github.com/shinsenter/php/pull/96) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Separate cache scope for different builds](https://github.com/shinsenter/php/pull/95) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix Docker image descriptions](https://github.com/shinsenter/php/pull/94) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -65,7 +66,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Use waterfall workflows](https://github.com/shinsenter/php/pull/90) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Added aliases for RoadRunner variant](https://github.com/shinsenter/php/pull/89) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Some minor fixes](https://github.com/shinsenter/php/pull/88) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Various improvements](https://github.com/shinsenter/php/pull/82) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
