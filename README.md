@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [Simplify Dockerfile](https://github.com/mlocati/docker-php-extension-installer/pull/960) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (today)
 - [[5.x] Improve autorun and sorting environment variables](https://github.com/shinsenter/php/pull/102) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Separate cache scope for different builds](https://github.com/shinsenter/php/pull/95) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Fix Docker image descriptions](https://github.com/shinsenter/php/pull/94) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Fix tag prefix for stable builds](https://github.com/shinsenter/php/pull/93) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/92) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
