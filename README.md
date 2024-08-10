@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (4 days ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 week ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (1 month ago)
@@ -56,6 +56,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Minor improvements](https://github.com/shinsenter/php/pull/98) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix updating *.md files to Docker Hub descriptions](https://github.com/shinsenter/php/pull/97) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -65,7 +66,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix tag prefix for stable builds](https://github.com/shinsenter/php/pull/93) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/92) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Display a greeting when building Docker images](https://github.com/shinsenter/php/pull/91) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Use waterfall workflows](https://github.com/shinsenter/php/pull/90) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
