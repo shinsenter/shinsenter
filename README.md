@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (today)
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (today)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (1 day ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 week ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (1 month ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 months ago)
@@ -46,9 +46,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.2.0](https://github.com/shinsenter/php/releases/tag/5.2.0), today) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions.
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 day ago) - The Laravel Framework.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.3](https://github.com/dunglas/frankenphp/releases/tag/v1.2.3), 4 days ago) - 🧟 The modern PHP app server
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.2.0](https://github.com/shinsenter/php/releases/tag/5.2.0), 1 day ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions.
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 2 days ago) - The Laravel Framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.3](https://github.com/dunglas/frankenphp/releases/tag/v1.2.3), 5 days ago) - 🧟 The modern PHP app server
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([2.10.0](https://github.com/shinsenter/defer-wordpress/releases/tag/2.10.0), 1 month ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 4 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 11 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
@@ -57,23 +57,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
-- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/103) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [Simplify Dockerfile](https://github.com/mlocati/docker-php-extension-installer/pull/960) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (today)
-- [[5.x] Improve autorun and sorting environment variables](https://github.com/shinsenter/php/pull/102) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Minor improvements](https://github.com/shinsenter/php/pull/98) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix updating *.md files to Docker Hub descriptions](https://github.com/shinsenter/php/pull/97) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Enable SBOM attestations](https://github.com/shinsenter/php/pull/96) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Separate cache scope for different builds](https://github.com/shinsenter/php/pull/95) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix Docker image descriptions](https://github.com/shinsenter/php/pull/94) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/103) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [Simplify Dockerfile](https://github.com/mlocati/docker-php-extension-installer/pull/960) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (1 day ago)
+- [[5.x] Improve autorun and sorting environment variables](https://github.com/shinsenter/php/pull/102) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Minor improvements](https://github.com/shinsenter/php/pull/98) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Fix updating *.md files to Docker Hub descriptions](https://github.com/shinsenter/php/pull/97) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Enable SBOM attestations](https://github.com/shinsenter/php/pull/96) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Separate cache scope for different builds](https://github.com/shinsenter/php/pull/95) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix Docker image descriptions](https://github.com/shinsenter/php/pull/94) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
 #### 🎄 Recent stars
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (today)
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (6 days ago)
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. (1 week ago)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (3 weeks ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (4 months ago)
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (5 months ago)
