@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [Hotfix](https://github.com/shinsenter/defer-wordpress/pull/70) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (1 day ago)
 - [Remove support for PHP versions earlier than 7.2](https://github.com/shinsenter/defer-wordpress/pull/69) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (1 day ago)
 - [[5.x] Disable the build cache because it is not effective](https://github.com/shinsenter/php/pull/104) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Minor improvements](https://github.com/shinsenter/php/pull/98) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix updating *.md files to Docker Hub descriptions](https://github.com/shinsenter/php/pull/97) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
