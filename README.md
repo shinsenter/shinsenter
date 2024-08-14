@@ -58,6 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Hide INITIAL_PROJECT from Docker images&#39; layers](https://github.com/shinsenter/php/pull/110) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Minor bug fixes](https://github.com/shinsenter/php/pull/108) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [Hotfix](https://github.com/shinsenter/defer-wordpress/pull/70) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (2 days ago)
@@ -67,7 +68,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [Simplify Dockerfile](https://github.com/mlocati/docker-php-extension-installer/pull/960) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (4 days ago)
 - [[5.x] Improve autorun and sorting environment variables](https://github.com/shinsenter/php/pull/102) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Add the $CRONTAB_SETTINGS variable](https://github.com/shinsenter/php/pull/101) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Correct tag prefix for the development branch](https://github.com/shinsenter/php/pull/99) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
