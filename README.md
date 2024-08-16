@@ -58,6 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/113) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix EspoCRM WebSocket](https://github.com/shinsenter/php/pull/112) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Use static link for EspoCRM](https://github.com/shinsenter/php/pull/111) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Hide INITIAL_PROJECT from Docker images&#39; layers](https://github.com/shinsenter/php/pull/110) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -67,7 +68,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [Remove support for PHP versions earlier than 7.2](https://github.com/shinsenter/defer-wordpress/pull/69) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (4 days ago)
 - [[5.x] Disable the build cache because it is not effective](https://github.com/shinsenter/php/pull/104) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/103) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [Simplify Dockerfile](https://github.com/mlocati/docker-php-extension-installer/pull/960) on [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) (6 days ago)
 
 ---
 
