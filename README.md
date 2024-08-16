@@ -73,11 +73,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Recent stars
 
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages (today)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (4 days ago)
 - [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (4 days ago)
 - [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (4 days ago)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (1 week ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (4 months ago)
 
 ---
 
