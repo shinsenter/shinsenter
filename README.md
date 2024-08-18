@@ -58,6 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve Nginx configurations](https://github.com/shinsenter/php/pull/114) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/113) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -67,7 +68,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Minor bug fixes](https://github.com/shinsenter/php/pull/108) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [Hotfix](https://github.com/shinsenter/defer-wordpress/pull/70) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (6 days ago)
-- [Remove support for PHP versions earlier than 7.2](https://github.com/shinsenter/defer-wordpress/pull/69) on [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) (6 days ago)
 
 ---
 
