@@ -58,6 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Only updating maintained PHP versions on scheduled builds](https://github.com/shinsenter/php/pull/118) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Stop builds when error](https://github.com/shinsenter/php/pull/117) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -67,7 +68,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Use static link for EspoCRM](https://github.com/shinsenter/php/pull/111) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Hide INITIAL_PROJECT from Docker images&#39; layers](https://github.com/shinsenter/php/pull/110) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Minor bug fixes](https://github.com/shinsenter/php/pull/108) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
