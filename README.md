@@ -21,8 +21,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (today)
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (4 days ago)
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (6 days ago)
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (5 days ago)
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (1 week ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 week ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (2 weeks ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (4 months ago)
@@ -47,9 +47,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.3.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.3.6), 5 days ago) - Easily install PHP extensions in Docker containers
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 6 days ago) - 🧟 The modern PHP app server
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 6 days ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.3.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.3.6), 6 days ago) - Easily install PHP extensions in Docker containers
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 week ago) - 🧟 The modern PHP app server
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 1 week ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 week ago) - The Laravel Framework.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 4 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) ([2.5.0](https://github.com/shinsenter/defer.php/releases/tag/2.5.0), 11 months ago) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
@@ -58,25 +58,25 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
-- [[5.x] Stop builds when error](https://github.com/shinsenter/php/pull/117) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Improve Nginx configurations](https://github.com/shinsenter/php/pull/114) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/113) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix EspoCRM WebSocket](https://github.com/shinsenter/php/pull/112) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Use static link for EspoCRM](https://github.com/shinsenter/php/pull/111) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Hide INITIAL_PROJECT from Docker images&#39; layers](https://github.com/shinsenter/php/pull/110) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Minor bug fixes](https://github.com/shinsenter/php/pull/108) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Stop builds when error](https://github.com/shinsenter/php/pull/117) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Improve Nginx configurations](https://github.com/shinsenter/php/pull/114) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/113) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Fix EspoCRM WebSocket](https://github.com/shinsenter/php/pull/112) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Use static link for EspoCRM](https://github.com/shinsenter/php/pull/111) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Hide INITIAL_PROJECT from Docker images&#39; layers](https://github.com/shinsenter/php/pull/110) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Minor bug fixes](https://github.com/shinsenter/php/pull/108) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Allow downloading the source code from URL](https://github.com/shinsenter/php/pull/106) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
 #### 🎄 Recent stars
 
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages (2 days ago)
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (6 days ago)
-- [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (6 days ago)
-- [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (6 days ago)
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages (3 days ago)
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (1 week ago)
+- [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (1 week ago)
+- [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (1 week ago)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (2 weeks ago)
 
 ---
