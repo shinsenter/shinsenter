@@ -47,7 +47,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.3.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.3.6), 6 days ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.3.7](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.3.7), today) - Easily install PHP extensions in Docker containers
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 week ago) - 🧟 The modern PHP app server
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 1 week ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [laravel/framework](https://github.com/laravel/framework) ([v10.48.20](https://github.com/laravel/framework/releases/tag/v10.48.20), 1 week ago) - The Laravel Framework.
