@@ -59,6 +59,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Simplify some commands](https://github.com/shinsenter/php/pull/123) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add workflow names](https://github.com/shinsenter/php/pull/122) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add &#34;onboot&#34; and &#34;onfirstrun&#34; hooks](https://github.com/shinsenter/php/pull/121) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Update docker-squash](https://github.com/shinsenter/php/pull/120) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -68,7 +69,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Improve Nginx configurations](https://github.com/shinsenter/php/pull/114) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix SBOM attestations](https://github.com/shinsenter/php/pull/113) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
