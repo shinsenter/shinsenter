@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 days ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 week ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (1 week ago)
@@ -59,6 +59,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [Revert &#34;[5.x] Add workflow names (#122)&#34;](https://github.com/shinsenter/php/pull/127) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add timezone data to the alpine variants](https://github.com/shinsenter/php/pull/126) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Simplify some commands](https://github.com/shinsenter/php/pull/123) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Add workflow names](https://github.com/shinsenter/php/pull/122) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -68,7 +69,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Only updating maintained PHP versions on scheduled builds](https://github.com/shinsenter/php/pull/118) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Stop builds when error](https://github.com/shinsenter/php/pull/117) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Added Docker images for Magento Open Source](https://github.com/shinsenter/php/pull/116) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Added &#34;hooks&#34; mechanism to containers](https://github.com/shinsenter/php/pull/115) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
