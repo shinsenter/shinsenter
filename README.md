@@ -59,6 +59,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fix shebang shell](https://github.com/shinsenter/php/pull/138) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Fix error when fixing letsencrypt](https://github.com/shinsenter/php/pull/137) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Improved debug-echo](https://github.com/shinsenter/php/pull/136) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Request container should be initiated as root](https://github.com/shinsenter/php/pull/135) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix permission for su-exec (Alpine Linux only)](https://github.com/shinsenter/php/pull/134) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix crontab](https://github.com/shinsenter/php/pull/133) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
@@ -66,9 +69,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix PHP config bugs](https://github.com/shinsenter/php/pull/128) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [Revert &#34;[5.x] Add workflow names (#122)&#34;](https://github.com/shinsenter/php/pull/127) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Add timezone data to the alpine variants](https://github.com/shinsenter/php/pull/126) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Simplify some commands](https://github.com/shinsenter/php/pull/123) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Add workflow names](https://github.com/shinsenter/php/pull/122) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Add &#34;onboot&#34; and &#34;onfirstrun&#34; hooks](https://github.com/shinsenter/php/pull/121) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
