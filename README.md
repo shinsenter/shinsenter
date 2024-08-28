@@ -59,6 +59,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Request container should be initiated as root](https://github.com/shinsenter/php/pull/135) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix permission for su-exec (Alpine Linux only)](https://github.com/shinsenter/php/pull/134) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix crontab](https://github.com/shinsenter/php/pull/133) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Move Wordpress installation script to the bootstrap hook](https://github.com/shinsenter/php/pull/131) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
@@ -68,7 +69,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Simplify some commands](https://github.com/shinsenter/php/pull/123) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Add workflow names](https://github.com/shinsenter/php/pull/122) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Add &#34;onboot&#34; and &#34;onfirstrun&#34; hooks](https://github.com/shinsenter/php/pull/121) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Update docker-squash](https://github.com/shinsenter/php/pull/120) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
