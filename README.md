@@ -59,6 +59,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Do not automatically fix ownership when only .env file created](https://github.com/shinsenter/php/pull/142) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Allow PHP-FPM pool to run as root](https://github.com/shinsenter/php/pull/141) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix shebang shell](https://github.com/shinsenter/php/pull/138) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix error when fixing letsencrypt](https://github.com/shinsenter/php/pull/137) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -68,7 +69,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix crontab](https://github.com/shinsenter/php/pull/133) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Move Wordpress installation script to the bootstrap hook](https://github.com/shinsenter/php/pull/131) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix PHP config bugs](https://github.com/shinsenter/php/pull/128) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [Revert &#34;[5.x] Add workflow names (#122)&#34;](https://github.com/shinsenter/php/pull/127) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
