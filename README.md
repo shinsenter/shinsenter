@@ -28,7 +28,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (5 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals. (5 months ago)
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (6 months ago)
-- [shinsenter/defer.php](https://github.com/shinsenter/defer.php) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed. (1 year ago)
 
 ---
 
