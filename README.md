@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (1 week ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 weeks ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (4 weeks ago)
@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fix Apache rewrite rules not working (#145)](https://github.com/shinsenter/php/pull/146) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fixed permission correction flow](https://github.com/shinsenter/php/pull/143) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Do not automatically fix ownership when only .env file created](https://github.com/shinsenter/php/pull/142) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Allow PHP-FPM pool to run as root](https://github.com/shinsenter/php/pull/141) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Request container should be initiated as root](https://github.com/shinsenter/php/pull/135) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix permission for su-exec (Alpine Linux only)](https://github.com/shinsenter/php/pull/134) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Fix crontab](https://github.com/shinsenter/php/pull/133) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [[5.x] Move Wordpress installation script to the bootstrap hook](https://github.com/shinsenter/php/pull/131) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 
 ---
 
