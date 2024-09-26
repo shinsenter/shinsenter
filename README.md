@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Optimize hooks, create database.sqlite for Laravel-based projects](https://github.com/shinsenter/php/pull/155) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Full build on the first day of every month](https://github.com/shinsenter/php/pull/154) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Re-enable cache keys for application builds](https://github.com/shinsenter/php/pull/153) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Also tag dev-* images when building production images](https://github.com/shinsenter/php/pull/152) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Do not automatically fix ownership when only .env file created](https://github.com/shinsenter/php/pull/142) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Allow PHP-FPM pool to run as root](https://github.com/shinsenter/php/pull/141) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 - [[5.x] Fix shebang shell](https://github.com/shinsenter/php/pull/138) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
-- [[5.x] Fix error when fixing letsencrypt](https://github.com/shinsenter/php/pull/137) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 
 ---
 
