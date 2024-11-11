@@ -46,7 +46,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.6.2](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.6.2), today) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.6.3](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.6.3), today) - Easily install PHP extensions in Docker containers
 - [laravel/framework](https://github.com/laravel/framework) ([v11.30.0](https://github.com/laravel/framework/releases/tag/v11.30.0), 1 week ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.5](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5), 2 months ago) - 🧟 The modern PHP app server
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.3.0](https://github.com/shinsenter/php/releases/tag/5.3.0), 2 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday.
