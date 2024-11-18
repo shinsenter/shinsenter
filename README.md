@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Use PHP 8.4 for the latest tags](https://github.com/shinsenter/php/pull/163) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix #132](https://github.com/shinsenter/php/pull/162) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Fix magento images (See #159)](https://github.com/shinsenter/php/pull/160) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Also tag dev-* images when building production images](https://github.com/shinsenter/php/pull/152) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Added Docker images for InvoiceShelf](https://github.com/shinsenter/php/pull/151) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Fix Apache rewrite rules not working (#145)](https://github.com/shinsenter/php/pull/146) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Fixed permission correction flow](https://github.com/shinsenter/php/pull/143) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
