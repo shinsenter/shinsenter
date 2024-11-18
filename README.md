@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (4 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (5 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (3 months ago)
@@ -46,9 +46,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.32.0](https://github.com/laravel/framework/releases/tag/v11.32.0), 2 days ago) - The Laravel Framework.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 3 days ago) - 🧟 The modern PHP app server
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.6.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.6.4), 3 days ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v11.32.0](https://github.com/laravel/framework/releases/tag/v11.32.0), 3 days ago) - The Laravel Framework.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.1](https://github.com/dunglas/frankenphp/releases/tag/v1.3.1), 4 days ago) - 🧟 The modern PHP app server
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.6.4](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.6.4), 4 days ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.3.0](https://github.com/shinsenter/php/releases/tag/5.3.0), 2 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 7 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
@@ -57,13 +57,13 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
-- [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Fix magento images (See #159)](https://github.com/shinsenter/php/pull/160) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Optimize hooks, create database.sqlite for Laravel-based projects](https://github.com/shinsenter/php/pull/155) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Full build on the first day of every month](https://github.com/shinsenter/php/pull/154) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Re-enable cache keys for application builds](https://github.com/shinsenter/php/pull/153) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Also tag dev-* images when building production images](https://github.com/shinsenter/php/pull/152) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Added Docker images for InvoiceShelf](https://github.com/shinsenter/php/pull/151) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
+- [[5.x] Added Docker images for InvoiceShelf](https://github.com/shinsenter/php/pull/151) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Fix Apache rewrite rules not working (#145)](https://github.com/shinsenter/php/pull/146) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Fixed permission correction flow](https://github.com/shinsenter/php/pull/143) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Do not automatically fix ownership when only .env file created](https://github.com/shinsenter/php/pull/142) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
