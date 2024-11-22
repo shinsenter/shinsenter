@@ -57,6 +57,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [Revert &#34;[5.x] FrankenPHP does not support PHP 8.4 (#165)&#34;](https://github.com/shinsenter/php/pull/166) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] FrankenPHP does not support PHP 8.4](https://github.com/shinsenter/php/pull/165) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Remove incompatible build platforms](https://github.com/shinsenter/php/pull/164) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Use PHP 8.4 for the latest tags](https://github.com/shinsenter/php/pull/163) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix #132](https://github.com/shinsenter/php/pull/162) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -65,8 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Optimize hooks, create database.sqlite for Laravel-based projects](https://github.com/shinsenter/php/pull/155) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Full build on the first day of every month](https://github.com/shinsenter/php/pull/154) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Re-enable cache keys for application builds](https://github.com/shinsenter/php/pull/153) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Also tag dev-* images when building production images](https://github.com/shinsenter/php/pull/152) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Added Docker images for InvoiceShelf](https://github.com/shinsenter/php/pull/151) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
