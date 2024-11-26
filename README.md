@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (2 days ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 months ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (today)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (today)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (3 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (3 months ago)
@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [Revert &#34;[5.x] FrankenPHP does not support PHP 8.4 (#165)&#34;](https://github.com/shinsenter/php/pull/166) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] FrankenPHP does not support PHP 8.4](https://github.com/shinsenter/php/pull/165) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix magento images (See #159)](https://github.com/shinsenter/php/pull/160) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Optimize hooks, create database.sqlite for Laravel-based projects](https://github.com/shinsenter/php/pull/155) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Full build on the first day of every month](https://github.com/shinsenter/php/pull/154) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
