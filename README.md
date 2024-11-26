@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [Revert &#34;[5.x] FrankenPHP does not support PHP 8.4 (#165)&#34;](https://github.com/shinsenter/php/pull/166) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix #132](https://github.com/shinsenter/php/pull/162) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix magento images (See #159)](https://github.com/shinsenter/php/pull/160) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Optimize hooks, create database.sqlite for Laravel-based projects](https://github.com/shinsenter/php/pull/155) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
