@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (3 days ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday. (4 days ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (4 days ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (3 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (4 months ago)
@@ -46,9 +46,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.5), today) - Easily install PHP extensions in Docker containers
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), today) - 🧟 The modern PHP app server
-- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 2 days ago) - The Laravel Framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.5), 1 day ago) - Easily install PHP extensions in Docker containers
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 day ago) - 🧟 The modern PHP app server
+- [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 3 days ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 1 week ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Updated everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 3 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 8 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
@@ -57,9 +57,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
-- [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [Revert &#34;[5.x] FrankenPHP does not support PHP 8.4 (#165)&#34;](https://github.com/shinsenter/php/pull/166) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] FrankenPHP does not support PHP 8.4](https://github.com/shinsenter/php/pull/165) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Remove incompatible build platforms](https://github.com/shinsenter/php/pull/164) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
