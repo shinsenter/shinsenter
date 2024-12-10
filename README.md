@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (5 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (3 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (4 months ago)
@@ -46,7 +46,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.5), 1 week ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.6), today) - Easily install PHP extensions in Docker containers
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 week ago) - 🧟 The modern PHP app server
 - [laravel/framework](https://github.com/laravel/framework) ([v11.34.2](https://github.com/laravel/framework/releases/tag/v11.34.2), 1 week ago) - The Laravel Framework.
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 2 weeks ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Added Docker images for Coolify](https://github.com/shinsenter/php/pull/173) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Remove incompatible build platforms](https://github.com/shinsenter/php/pull/164) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Use PHP 8.4 for the latest tags](https://github.com/shinsenter/php/pull/163) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Fix #132](https://github.com/shinsenter/php/pull/162) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Copy watcher shared library for FrankenPHP images](https://github.com/shinsenter/php/pull/161) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 
 ---
 
