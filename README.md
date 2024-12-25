@@ -46,7 +46,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 2 days ago) - 🧟 The modern PHP app server
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 3 days ago) - 🧟 The modern PHP app server
 - [laravel/framework](https://github.com/laravel/framework) ([v11.36.1](https://github.com/laravel/framework/releases/tag/v11.36.1), 1 week ago) - The Laravel Framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.8](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.8), 1 week ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 1 month ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
@@ -58,7 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Latest PRs I published
 
 - [[5.x] Add PHP 8.4 for Hyperf docker images](https://github.com/shinsenter/php/pull/177) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
+- [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Added Docker images for Coolify](https://github.com/shinsenter/php/pull/173) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
@@ -73,7 +73,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Recent stars
 
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (3 months ago)
-- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (3 months ago)
+- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (4 months ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (4 months ago)
 - [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (4 months ago)
 - [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (4 months ago)
