@@ -58,7 +58,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Latest PRs I published
 
 - [[5.x] Add PHP 8.4 for Hyperf docker images](https://github.com/shinsenter/php/pull/177) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
+- [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Added Docker images for Coolify](https://github.com/shinsenter/php/pull/173) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
