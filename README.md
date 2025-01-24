@@ -46,9 +46,9 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.39.1](https://github.com/laravel/framework/releases/tag/v11.39.1), 1 day ago) - The Laravel Framework.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.14](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.14), 1 day ago) - Easily install PHP extensions in Docker containers
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.1](https://github.com/dunglas/frankenphp/releases/tag/v1.4.1), 3 days ago) - 🧟 The modern PHP app server
+- [laravel/framework](https://github.com/laravel/framework) ([v11.39.1](https://github.com/laravel/framework/releases/tag/v11.39.1), 2 days ago) - The Laravel Framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.14](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.14), 2 days ago) - Easily install PHP extensions in Docker containers
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.1](https://github.com/dunglas/frankenphp/releases/tag/v1.4.1), 4 days ago) - 🧟 The modern PHP app server
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 2 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 5 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 9 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
@@ -73,7 +73,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Recent stars
 
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (4 months ago)
-- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (4 months ago)
+- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (5 months ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (5 months ago)
 - [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (5 months ago)
 - [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (5 months ago)
