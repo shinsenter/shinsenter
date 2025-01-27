@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/185) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add PHP 8.4 for Hyperf docker images](https://github.com/shinsenter/php/pull/177) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [Revert &#34;[5.x] FrankenPHP does not support PHP 8.4 (#165)&#34;](https://github.com/shinsenter/php/pull/166) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] FrankenPHP does not support PHP 8.4](https://github.com/shinsenter/php/pull/165) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
