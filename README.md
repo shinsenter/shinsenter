@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Temporarily disable builds for the Nginx Unit variant](https://github.com/shinsenter/php/pull/189) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [Revert &#34;[5.x] Modify build platform for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/188) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/185) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Swoole does not currently support PHP 8.4, skip installing Hyperf](https://github.com/shinsenter/php/pull/167) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
