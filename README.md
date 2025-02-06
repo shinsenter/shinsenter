@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [Revert &#34;[5.x] Temporarily disable builds for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/193) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Downgrade action runner to ubuntu-22.04](https://github.com/shinsenter/php/pull/192) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Temporarily disable builds for the Nginx Unit variant](https://github.com/shinsenter/php/pull/189) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Add PHP 8.4 for Hyperf docker images](https://github.com/shinsenter/php/pull/177) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Removed mc command from the Coolify Docker images](https://github.com/shinsenter/php/pull/174) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Added Docker images for Coolify](https://github.com/shinsenter/php/pull/173) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
