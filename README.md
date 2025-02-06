@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (1 week ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (5 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (5 months ago)
@@ -46,8 +46,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.22](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.22), today) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v10.48.28](https://github.com/laravel/framework/releases/tag/v10.48.28), 5 days ago) - The Laravel Framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.22](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.22), 1 day ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v10.48.28](https://github.com/laravel/framework/releases/tag/v10.48.28), 6 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.2](https://github.com/dunglas/frankenphp/releases/tag/v1.4.2), 1 week ago) - 🧟 The modern PHP app server
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 2 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 5 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
@@ -57,6 +57,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest PRs I published
 
+- [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Temporarily disable builds for the Nginx Unit variant](https://github.com/shinsenter/php/pull/189) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [Revert &#34;[5.x] Modify build platform for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/188) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -66,7 +67,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Added Docker images for Coolify](https://github.com/shinsenter/php/pull/173) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Fix issue #157](https://github.com/shinsenter/php/pull/172) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Some projects don’t support PHP 8.4 yet, so use PHP 8.3 as the …](https://github.com/shinsenter/php/pull/169) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Small minor fixes](https://github.com/shinsenter/php/pull/168) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 
 ---
 
