@@ -46,8 +46,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.27](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.27), today) - Easily install PHP extensions in Docker containers
-- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 4 days ago) - The Laravel Framework.
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.27](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.27), 1 day ago) - Easily install PHP extensions in Docker containers
+- [laravel/framework](https://github.com/laravel/framework) ([v12.0.1](https://github.com/laravel/framework/releases/tag/v12.0.1), 5 days ago) - The Laravel Framework.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.4](https://github.com/dunglas/frankenphp/releases/tag/v1.4.4), 1 week ago) - 🧟 The modern PHP app server
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 3 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 6 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
