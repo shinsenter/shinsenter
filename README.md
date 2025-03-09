@@ -27,7 +27,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (7 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (11 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals. (11 months ago)
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server (1 year ago)
 
 ---
 
