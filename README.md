@@ -23,7 +23,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (2 weeks ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (6 months ago)
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (6 months ago)
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (7 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (7 months ago)
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework. (11 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals. (11 months ago)
@@ -45,10 +45,10 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Latest releases I've contributed to
 
-- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 4 days ago) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) ([v11.44.1](https://github.com/laravel/framework/releases/tag/v11.44.1), 5 days ago) - The Laravel Framework.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.27](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.27), 1 week ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 3 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
-- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 6 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
+- [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 7 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.8.0](https://github.com/shinsenter/defer.js/releases/tag/3.8.0), 11 months ago) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
 
 ---
@@ -56,8 +56,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Latest PRs I published
 
 - [[5.x] Reduce pull rate limit errors](https://github.com/shinsenter/php/pull/197) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [[5.x] Use ghcr.io for pulling docker images](https://github.com/shinsenter/php/pull/196) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [[5.x] Adjust the number of build instances for Docker Hub&#39;s Free tier](https://github.com/shinsenter/php/pull/195) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
+- [[5.x] Use ghcr.io for pulling docker images](https://github.com/shinsenter/php/pull/196) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
+- [[5.x] Adjust the number of build instances for Docker Hub&#39;s Free tier](https://github.com/shinsenter/php/pull/195) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [Revert &#34;[5.x] Temporarily disable builds for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/193) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Downgrade action runner to ubuntu-22.04](https://github.com/shinsenter/php/pull/192) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
@@ -70,11 +70,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🎄 Recent stars
 
-- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (5 months ago)
+- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (6 months ago)
 - [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (6 months ago)
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (6 months ago)
-- [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (6 months ago)
-- [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (6 months ago)
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (7 months ago)
+- [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (7 months ago)
+- [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (7 months ago)
 
 ---
 
