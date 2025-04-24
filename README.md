@@ -67,7 +67,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🎄 Recent stars
 
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (7 months ago)
-- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (7 months ago)
+- [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (8 months ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (8 months ago)
 - [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (8 months ago)
 - [mlbvn/ml-yearning-vi](https://github.com/mlbvn/ml-yearning-vi) - Một cuốn sách tập trung vào hướng dẫn cách cấu trúc các dự án Học Máy và phân tích cách làm cho các thuật toán Học Máy hoạt động. (8 months ago)
