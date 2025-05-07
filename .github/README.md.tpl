@@ -1,4 +1,4 @@
-### Hello, world! 👋
+### Hello, world! 👋🏻
 
 <p>
 <img src="https://github.com/shinsenter.png?size=600" width="300" style="border-radius:10px" />
@@ -18,49 +18,49 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🎄 What I'm currently working on
+#### 🍊 What I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 ---
 
-#### 🎄 My latest projects
+#### 🍊 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 ---
 
-#### 🎄 Latest releases I've contributed to
+#### 🍊 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 ---
 
-#### 🎄 Latest PRs I published
+#### 🍊 Latest PRs I published
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ---
 
-#### 🎄 Recent stars
+#### ⭐️ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
 ---
 <!--
-#### 🎄 These awesome people sponsor me (thank you!)
+#### 🙏🏻 These awesome people sponsor me (thank you!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 -->
 ---
 
-#### 🤝 Support development
+#### 🍕 Support development
 If you find my projects helpful and wish to support continued development, I welcome donations or other contributions.
 
 ##### Donate
