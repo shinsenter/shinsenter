@@ -1,4 +1,4 @@
-### Hello, world! 👋
+### Hello, world! 👋🏻
 
 <p>
 <img src="https://github.com/shinsenter.png?size=600" width="300" style="border-radius:10px" />
@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🎄 What I'm currently working on
+#### 🍊 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday. (2 months ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (5 months ago)
@@ -28,7 +28,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🎄 My latest projects
+#### 🍊 My latest projects
 
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code.
@@ -41,22 +41,22 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🎄 Latest releases I've contributed to
+#### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.33](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.33), today) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.7.33](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.7.33), 1 day ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.4.0](https://github.com/shinsenter/php/releases/tag/5.4.0), 5 months ago) - 📦 Simplified PHP Docker images for effortless customization and extension setup. Our Docker images cover PHP versions from 5.6 to 8.4, available in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, for both Debian and Alpine versions. Build everyday.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 8 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
-#### 🎄 Latest PRs I published
+#### 🍊 Latest PRs I published
 
 - [[5.x] Reduce pull rate limit errors](https://github.com/shinsenter/php/pull/197) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Use ghcr.io for pulling docker images](https://github.com/shinsenter/php/pull/196) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Adjust the number of build instances for Docker Hub&#39;s Free tier](https://github.com/shinsenter/php/pull/195) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [Revert &#34;[5.x] Temporarily disable builds for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/193) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Downgrade action runner to ubuntu-22.04](https://github.com/shinsenter/php/pull/192) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
-- [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
+- [Revert &#34;[5.x] Temporarily disable builds for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/193) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
+- [[5.x] Downgrade action runner to ubuntu-22.04](https://github.com/shinsenter/php/pull/192) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
+- [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [[5.x] Temporarily disable builds for the Nginx Unit variant](https://github.com/shinsenter/php/pull/189) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [Revert &#34;[5.x] Modify build platform for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/188) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
@@ -64,7 +64,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🎄 Recent stars
+#### ⭐️ Recent stars
 
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (7 months ago)
 - [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (8 months ago)
@@ -76,7 +76,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 ---
 
-#### 🤝 Support development
+#### 🍕 Support development
 If you find my projects helpful and wish to support continued development, I welcome donations or other contributions.
 
 ##### Donate
