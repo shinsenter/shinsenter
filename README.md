@@ -59,8 +59,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fail early if extension installation fails](https://github.com/shinsenter/php/pull/191) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [[5.x] Temporarily disable builds for the Nginx Unit variant](https://github.com/shinsenter/php/pull/189) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [Revert &#34;[5.x] Modify build platform for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/188) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
-- [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
-- [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/185) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
+- [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/186) on [shinsenter/php](https://github.com/shinsenter/php) (4 months ago)
+- [[5.x] Modify build platform for the Nginx Unit variant](https://github.com/shinsenter/php/pull/185) on [shinsenter/php](https://github.com/shinsenter/php) (4 months ago)
 
 ---
 
