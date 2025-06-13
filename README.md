@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Optimize build script](https://github.com/shinsenter/php/pull/216) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Set artifact name and path](https://github.com/shinsenter/php/pull/215) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/214) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Reduce pull rate limit errors](https://github.com/shinsenter/php/pull/197) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [[5.x] Use ghcr.io for pulling docker images](https://github.com/shinsenter/php/pull/196) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
 - [[5.x] Adjust the number of build instances for Docker Hub&#39;s Free tier](https://github.com/shinsenter/php/pull/195) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
-- [Revert &#34;[5.x] Temporarily disable builds for the Nginx Unit variant&#34;](https://github.com/shinsenter/php/pull/193) on [shinsenter/php](https://github.com/shinsenter/php) (4 months ago)
 
 ---
 
