@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.4 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.4 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (2 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (6 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (10 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (10 months ago)
@@ -43,18 +43,18 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.0), 1 day ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.0](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.0), 2 days ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 10 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Optimize build script](https://github.com/shinsenter/php/pull/216) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Set artifact name and path](https://github.com/shinsenter/php/pull/215) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/214) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Optimize build cache](https://github.com/shinsenter/php/pull/213) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Optimize build script](https://github.com/shinsenter/php/pull/216) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Set artifact name and path](https://github.com/shinsenter/php/pull/215) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/214) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Optimize build cache](https://github.com/shinsenter/php/pull/213) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix double slash issue in the Apache variant (#209)](https://github.com/shinsenter/php/pull/211) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/208) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Reduce pull rate limit errors](https://github.com/shinsenter/php/pull/197) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
