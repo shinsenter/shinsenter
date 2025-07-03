@@ -50,6 +50,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Improve s6-service script](https://github.com/shinsenter/php/pull/232) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix s6-service script](https://github.com/shinsenter/php/pull/231) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/229) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve workflows](https://github.com/shinsenter/php/pull/221) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -58,8 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Optimize build script](https://github.com/shinsenter/php/pull/216) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Set artifact name and path](https://github.com/shinsenter/php/pull/215) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/214) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Optimize build cache](https://github.com/shinsenter/php/pull/213) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 
 ---
 
