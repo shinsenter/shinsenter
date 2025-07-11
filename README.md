@@ -51,6 +51,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix document root for Flight framework](https://github.com/shinsenter/php/pull/240) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Added Docker images for Flight framework](https://github.com/shinsenter/php/pull/239) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add PHP 8.5 alpha](https://github.com/shinsenter/php/pull/238) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve project installation script](https://github.com/shinsenter/php/pull/234) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
@@ -59,8 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/229) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve workflows](https://github.com/shinsenter/php/pull/221) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Refactor GitHub workflows (2nd push)](https://github.com/shinsenter/php/pull/220) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Refactor GitHub workflows](https://github.com/shinsenter/php/pull/219) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 
 ---
 
