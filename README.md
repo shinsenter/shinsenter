@@ -43,7 +43,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 1 day ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 2 days ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 1 week ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.4 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
@@ -59,7 +59,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Improve workflows](https://github.com/shinsenter/php/pull/221) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Refactor GitHub workflows (2nd push)](https://github.com/shinsenter/php/pull/220) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Refactor GitHub workflows](https://github.com/shinsenter/php/pull/219) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
+- [[5.x] Disable fail-fast to allow all jobs to run, even if some fail](https://github.com/shinsenter/php/pull/217) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 - [[5.x] Optimize build script](https://github.com/shinsenter/php/pull/216) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 
 ---
