@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (2 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (7 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (11 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (11 months ago)
@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Add service for Laravel Reverb](https://github.com/shinsenter/php/pull/241) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix document root for Flight framework](https://github.com/shinsenter/php/pull/240) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Added Docker images for Flight framework](https://github.com/shinsenter/php/pull/239) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Add PHP 8.5 alpha](https://github.com/shinsenter/php/pull/238) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix s6-service script](https://github.com/shinsenter/php/pull/231) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/229) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve workflows](https://github.com/shinsenter/php/pull/221) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [[5.x] Refactor GitHub workflows (2nd push)](https://github.com/shinsenter/php/pull/220) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 
 ---
 
