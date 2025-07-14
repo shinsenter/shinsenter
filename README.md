@@ -37,7 +37,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/defer-laravel](https://github.com/shinsenter/defer-laravel) - 🚀 A Laravel package that focuses on minimizing payload size of HTML document and optimizing processing on the browser when rendering the web page.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 - [shinsenter/defer.php](https://github.com/shinsenter/defer.php) - 🚀 A PHP library that focuses on minimizing payload size of HTML document and optimizing page speed.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is dependency-free, highly efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A lightweight JavaScript library that helps you lazy load (almost) anything. Defer.js is without dependencies, highly efficient, and optimized for Web Vitals.
 
 ---
 
@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve Docker build for some Laravel-based applications](https://github.com/shinsenter/php/pull/242) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add service for Laravel Reverb](https://github.com/shinsenter/php/pull/241) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix document root for Flight framework](https://github.com/shinsenter/php/pull/240) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve s6-service script](https://github.com/shinsenter/php/pull/232) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix s6-service script](https://github.com/shinsenter/php/pull/231) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/229) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
