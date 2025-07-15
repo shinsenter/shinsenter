@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/244) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve Docker build for some Laravel-based applications](https://github.com/shinsenter/php/pull/242) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Add service for Laravel Reverb](https://github.com/shinsenter/php/pull/241) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Improve project installation script](https://github.com/shinsenter/php/pull/234) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve s6-service script](https://github.com/shinsenter/php/pull/232) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Fix s6-service script](https://github.com/shinsenter/php/pull/231) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
