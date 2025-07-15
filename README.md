@@ -43,7 +43,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 5 days ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 6 days ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 1 week ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
@@ -51,12 +51,12 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Improve Docker build for some Laravel-based applications](https://github.com/shinsenter/php/pull/242) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Add service for Laravel Reverb](https://github.com/shinsenter/php/pull/241) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix document root for Flight framework](https://github.com/shinsenter/php/pull/240) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Added Docker images for Flight framework](https://github.com/shinsenter/php/pull/239) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Add PHP 8.5 alpha](https://github.com/shinsenter/php/pull/238) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Improve Docker build for some Laravel-based applications](https://github.com/shinsenter/php/pull/242) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Add service for Laravel Reverb](https://github.com/shinsenter/php/pull/241) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix document root for Flight framework](https://github.com/shinsenter/php/pull/240) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Added Docker images for Flight framework](https://github.com/shinsenter/php/pull/239) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Add PHP 8.5 alpha](https://github.com/shinsenter/php/pull/238) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Improve project installation script](https://github.com/shinsenter/php/pull/234) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve s6-service script](https://github.com/shinsenter/php/pull/232) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
