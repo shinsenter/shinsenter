@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Improve container bootstrap hooks](https://github.com/shinsenter/php/pull/246) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve pkg-add script](https://github.com/shinsenter/php/pull/245) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/244) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Added Docker images for Flight framework](https://github.com/shinsenter/php/pull/239) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Add PHP 8.5 alpha](https://github.com/shinsenter/php/pull/238) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Improve project installation script](https://github.com/shinsenter/php/pull/234) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] For 5.5.0](https://github.com/shinsenter/php/pull/233) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
