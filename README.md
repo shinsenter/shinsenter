@@ -51,6 +51,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Enable Laravel scheduler service by default](https://github.com/shinsenter/php/pull/254) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Fix typo](https://github.com/shinsenter/php/pull/253) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve bootstrap hooks; some minor enhances](https://github.com/shinsenter/php/pull/252) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix default log path and sendmail path](https://github.com/shinsenter/php/pull/251) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor improvements](https://github.com/shinsenter/php/pull/249) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -59,8 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Improve container bootstrap hooks](https://github.com/shinsenter/php/pull/246) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve pkg-add script](https://github.com/shinsenter/php/pull/245) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/244) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/243) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Improve Docker build for some Laravel-based applications](https://github.com/shinsenter/php/pull/242) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
