@@ -44,23 +44,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 1 week ago) - Easily install PHP extensions in Docker containers
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 1 week ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 2 weeks ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Enable Laravel scheduler service by default](https://github.com/shinsenter/php/pull/254) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix typo](https://github.com/shinsenter/php/pull/253) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Improve bootstrap hooks; some minor enhances](https://github.com/shinsenter/php/pull/252) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix default log path and sendmail path](https://github.com/shinsenter/php/pull/251) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor improvements](https://github.com/shinsenter/php/pull/249) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Patch sources.list for all debian &lt;11](https://github.com/shinsenter/php/pull/248) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Only path sources.list for debian 10](https://github.com/shinsenter/php/pull/247) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve container bootstrap hooks](https://github.com/shinsenter/php/pull/246) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve pkg-add script](https://github.com/shinsenter/php/pull/245) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/244) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Enable Laravel scheduler service by default](https://github.com/shinsenter/php/pull/254) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix typo](https://github.com/shinsenter/php/pull/253) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Improve bootstrap hooks; some minor enhances](https://github.com/shinsenter/php/pull/252) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix default log path and sendmail path](https://github.com/shinsenter/php/pull/251) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor improvements](https://github.com/shinsenter/php/pull/249) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Patch sources.list for all debian &lt;11](https://github.com/shinsenter/php/pull/248) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Only path sources.list for debian 10](https://github.com/shinsenter/php/pull/247) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Improve container bootstrap hooks](https://github.com/shinsenter/php/pull/246) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Improve pkg-add script](https://github.com/shinsenter/php/pull/245) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Improve debug-echo command](https://github.com/shinsenter/php/pull/244) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
