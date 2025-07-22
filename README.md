@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (2 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (7 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (11 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (11 months ago)
@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/265) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [Revert &#34;[5.x] Fix build script&#34;](https://github.com/shinsenter/php/pull/264) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Fix build script](https://github.com/shinsenter/php/pull/263) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Add remarks for crontab (#259)](https://github.com/shinsenter/php/pull/262) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Enable Laravel scheduler service by default](https://github.com/shinsenter/php/pull/254) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix typo](https://github.com/shinsenter/php/pull/253) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Improve bootstrap hooks; some minor enhances](https://github.com/shinsenter/php/pull/252) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Fix default log path and sendmail path](https://github.com/shinsenter/php/pull/251) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
