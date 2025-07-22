@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/266) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/265) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [Revert &#34;[5.x] Fix build script&#34;](https://github.com/shinsenter/php/pull/264) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Fix build script](https://github.com/shinsenter/php/pull/263) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix file headers](https://github.com/shinsenter/php/pull/255) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Enable Laravel scheduler service by default](https://github.com/shinsenter/php/pull/254) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix typo](https://github.com/shinsenter/php/pull/253) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Improve bootstrap hooks; some minor enhances](https://github.com/shinsenter/php/pull/252) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
