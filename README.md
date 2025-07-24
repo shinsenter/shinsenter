@@ -21,7 +21,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (7 months ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (8 months ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (11 months ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (11 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (11 months ago)
@@ -44,23 +44,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 2 weeks ago) - Easily install PHP extensions in Docker containers
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 2 weeks ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 3 weeks ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/271) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/269) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Remove platforms ppc64le and s390x from debian &lt;12](https://github.com/shinsenter/php/pull/268) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Added Docker images for Hypervel](https://github.com/shinsenter/php/pull/267) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/266) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/265) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [Revert &#34;[5.x] Fix build script&#34;](https://github.com/shinsenter/php/pull/264) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Fix build script](https://github.com/shinsenter/php/pull/263) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Add remarks for crontab (#259)](https://github.com/shinsenter/php/pull/262) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Update README.md for application images](https://github.com/shinsenter/php/pull/257) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Improve build flow](https://github.com/shinsenter/php/pull/272) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/271) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/269) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Remove platforms ppc64le and s390x from debian &lt;12](https://github.com/shinsenter/php/pull/268) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Added Docker images for Hypervel](https://github.com/shinsenter/php/pull/267) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/266) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/265) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [Revert &#34;[5.x] Fix build script&#34;](https://github.com/shinsenter/php/pull/264) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Fix build script](https://github.com/shinsenter/php/pull/263) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Add remarks for crontab (#259)](https://github.com/shinsenter/php/pull/262) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
