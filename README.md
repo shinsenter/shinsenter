@@ -44,13 +44,14 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 2 weeks ago) - Easily install PHP extensions in Docker containers
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.5.0](https://github.com/shinsenter/php/releases/tag/5.5.0), 3 weeks ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Optimize chown -R](https://github.com/shinsenter/php/pull/277) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Fix realpath](https://github.com/shinsenter/php/pull/276) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix index path](https://github.com/shinsenter/php/pull/275) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/274) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve build flow](https://github.com/shinsenter/php/pull/273) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -59,8 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/269) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Remove platforms ppc64le and s390x from debian &lt;12](https://github.com/shinsenter/php/pull/268) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Added Docker images for Hypervel](https://github.com/shinsenter/php/pull/267) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/266) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/265) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
