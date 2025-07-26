@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix ownership for Hyperf, Wordpress](https://github.com/shinsenter/php/pull/281) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix ownership for Spiral](https://github.com/shinsenter/php/pull/280) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add ftp extension for Magento](https://github.com/shinsenter/php/pull/278) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Optimize chown -R](https://github.com/shinsenter/php/pull/277) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Improve build flow](https://github.com/shinsenter/php/pull/273) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Improve build flow](https://github.com/shinsenter/php/pull/272) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/271) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/269) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
