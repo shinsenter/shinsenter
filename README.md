@@ -43,23 +43,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 2 weeks ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 3 weeks ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Add ownership script](https://github.com/shinsenter/php/pull/293) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/292) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Revert is-true](https://github.com/shinsenter/php/pull/291) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve build script](https://github.com/shinsenter/php/pull/290) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/289) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/288) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/287) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/286) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Improve bash scripts](https://github.com/shinsenter/php/pull/285) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/284) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Add ownership script](https://github.com/shinsenter/php/pull/293) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/292) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Revert is-true](https://github.com/shinsenter/php/pull/291) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Improve build script](https://github.com/shinsenter/php/pull/290) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/289) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/288) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/287) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/286) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve bash scripts](https://github.com/shinsenter/php/pull/285) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/284) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
