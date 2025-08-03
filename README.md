@@ -20,6 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (today)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (today)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (11 months ago)
@@ -42,6 +43,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), today) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 3 weeks ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
@@ -49,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/297) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix PHP-FPM pool name](https://github.com/shinsenter/php/pull/295) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Add ownership script](https://github.com/shinsenter/php/pull/293) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
@@ -58,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/289) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/288) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/287) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Improve cleanup script](https://github.com/shinsenter/php/pull/286) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
