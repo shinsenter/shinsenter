@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Force PHP-FPM to load customized config files](https://github.com/shinsenter/php/pull/302) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/299) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Continue on outdated build errors](https://github.com/shinsenter/php/pull/298) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (1 day ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/292) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Revert is-true](https://github.com/shinsenter/php/pull/291) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Improve build script](https://github.com/shinsenter/php/pull/290) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/289) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
