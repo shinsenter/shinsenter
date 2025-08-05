@@ -43,8 +43,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.6), today) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 2 days ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.5](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.5), 3 weeks ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 11 months ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
 ---
