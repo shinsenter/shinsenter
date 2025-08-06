@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/303) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Force PHP-FPM to load customized config files](https://github.com/shinsenter/php/pull/302) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/299) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix PHP-FPM pool name](https://github.com/shinsenter/php/pull/295) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Add ownership script](https://github.com/shinsenter/php/pull/293) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/292) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Revert is-true](https://github.com/shinsenter/php/pull/291) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
