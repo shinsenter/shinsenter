@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/303) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (3 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/297) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Fix PHP-FPM pool name](https://github.com/shinsenter/php/pull/295) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Add ownership script](https://github.com/shinsenter/php/pull/293) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
