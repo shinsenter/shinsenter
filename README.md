@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (today)
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (2 days ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (4 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (5 days ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (11 months ago)
@@ -52,6 +52,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix composer bin paths and service scripts](https://github.com/shinsenter/php/pull/310) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [Update name and description for @shinsenter/defer.js](https://github.com/microjs/microjs.com/pull/1078) on [microjs/microjs.com](https://github.com/microjs/microjs.com) (today)
 - [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -61,7 +62,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/299) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Continue on outdated build errors](https://github.com/shinsenter/php/pull/298) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/297) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
