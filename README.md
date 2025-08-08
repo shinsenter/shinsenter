@@ -52,6 +52,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [Update name and description for @shinsenter/defer.js](https://github.com/microjs/microjs.com/pull/1078) on [microjs/microjs.com](https://github.com/microjs/microjs.com) (today)
 - [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -61,7 +62,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Continue on outdated build errors](https://github.com/shinsenter/php/pull/298) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (5 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/297) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix PHP-FPM pool name](https://github.com/shinsenter/php/pull/295) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
