@@ -52,6 +52,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Improve testing s6-overlay builds](https://github.com/shinsenter/php/pull/311) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix composer bin paths and service scripts](https://github.com/shinsenter/php/pull/310) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [Update name and description for @shinsenter/defer.js](https://github.com/microjs/microjs.com/pull/1078) on [microjs/microjs.com](https://github.com/microjs/microjs.com) (1 day ago)
 - [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
@@ -61,7 +62,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Force PHP-FPM to load customized config files](https://github.com/shinsenter/php/pull/302) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/299) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Continue on outdated build errors](https://github.com/shinsenter/php/pull/298) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [For 3.9.0](https://github.com/shinsenter/defer.js/pull/149) on [shinsenter/defer.js](https://github.com/shinsenter/defer.js) (6 days ago)
 
 ---
 
