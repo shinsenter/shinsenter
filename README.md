@@ -51,6 +51,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Improve helper scripts](https://github.com/shinsenter/php/pull/316) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/315) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -60,7 +61,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/303) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
