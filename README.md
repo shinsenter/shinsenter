@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
-- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (4 days ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 week ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 week ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 year ago)
@@ -44,7 +44,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.6), 6 days ago) - Easily install PHP extensions in Docker containers
+- [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) ([2.8.6](https://github.com/mlocati/docker-php-extension-installer/releases/tag/2.8.6), 1 week ago) - Easily install PHP extensions in Docker containers
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 1 week ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) ([3.0.0](https://github.com/shinsenter/defer-wordpress/releases/tag/3.0.0), 1 year ago) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
 
@@ -52,15 +52,15 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Improve testing s6-overlay builds](https://github.com/shinsenter/php/pull/311) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix composer bin paths and service scripts](https://github.com/shinsenter/php/pull/310) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [Update name and description for @shinsenter/defer.js](https://github.com/microjs/microjs.com/pull/1078) on [microjs/microjs.com](https://github.com/microjs/microjs.com) (3 days ago)
-- [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/303) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Improve testing s6-overlay builds](https://github.com/shinsenter/php/pull/311) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Fix composer bin paths and service scripts](https://github.com/shinsenter/php/pull/310) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [Update name and description for @shinsenter/defer.js](https://github.com/microjs/microjs.com/pull/1078) on [microjs/microjs.com](https://github.com/microjs/microjs.com) (4 days ago)
+- [[5.x] Fix docker images for the RoadRunner, FrankenPHP variant](https://github.com/shinsenter/php/pull/306) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Save bash history](https://github.com/shinsenter/php/pull/305) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/304) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/303) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Force PHP-FPM to load customized config files](https://github.com/shinsenter/php/pull/302) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
