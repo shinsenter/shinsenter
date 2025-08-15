@@ -21,7 +21,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
-- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (6 days ago)
+- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (1 week ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 week ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 week ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 year ago)
@@ -50,16 +50,16 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Temporary fix for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/321) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix GitHub action](https://github.com/shinsenter/php/pull/320) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/319) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Trim URL in helper function](https://github.com/shinsenter/php/pull/318) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Keep README.md under 25,000 bytes to fit DockerHub’s limit](https://github.com/shinsenter/php/pull/317) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Improve helper scripts](https://github.com/shinsenter/php/pull/316) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/315) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Temporary fix for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/321) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix GitHub action](https://github.com/shinsenter/php/pull/320) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/319) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Trim URL in helper function](https://github.com/shinsenter/php/pull/318) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Keep README.md under 25,000 bytes to fit DockerHub’s limit](https://github.com/shinsenter/php/pull/317) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve helper scripts](https://github.com/shinsenter/php/pull/316) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/315) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
