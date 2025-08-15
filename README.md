@@ -50,6 +50,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Fix build flow](https://github.com/shinsenter/php/pull/326) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Temporary fix for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/321) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix GitHub action](https://github.com/shinsenter/php/pull/320) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -58,8 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Keep README.md under 25,000 bytes to fit DockerHub’s limit](https://github.com/shinsenter/php/pull/317) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Improve helper scripts](https://github.com/shinsenter/php/pull/316) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/315) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Support URLs ending with &#39;.git&#39; for the $INITIAL_PROJECT variable](https://github.com/shinsenter/php/pull/313) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Patch entrypoint for PHP-FPM](https://github.com/shinsenter/php/pull/312) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
