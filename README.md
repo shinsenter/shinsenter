@@ -52,6 +52,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (today)
@@ -61,7 +62,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Temporary fix for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/321) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix GitHub action](https://github.com/shinsenter/php/pull/320) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/319) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
