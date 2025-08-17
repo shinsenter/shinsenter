@@ -24,7 +24,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - su-exec is a very minimal re-write of gosu in C, making for a much smaller binary. (today)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (1 week ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 week ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 week ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 weeks ago)
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers (1 year ago)
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it. (1 year ago)
 
@@ -46,28 +46,28 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 1 week ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 2 weeks ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/334) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix build flow](https://github.com/shinsenter/php/pull/326) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/334) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix build flow](https://github.com/shinsenter/php/pull/326) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/325) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (1 month ago)
+- [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (11 months ago)
 - [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (11 months ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (1 year ago)
