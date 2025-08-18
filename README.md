@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
