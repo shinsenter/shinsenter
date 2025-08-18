@@ -20,10 +20,10 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - su-exec is a very minimal re-write of gosu in C, making for a much smaller binary. (today)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - su-exec is a very minimal re-write of gosu in C, making for a much smaller binary. (1 day ago)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (1 week ago)
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 week ago)
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (2 weeks ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 weeks ago)
 
 ---
@@ -50,16 +50,16 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/334) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/334) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Remove inotify-tools](https://github.com/shinsenter/php/pull/327) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
