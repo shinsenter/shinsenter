@@ -20,7 +20,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - su-exec is a very minimal re-write of gosu in C, making for a much smaller binary. (today)
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (2 days ago)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (1 week ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (2 weeks ago)
@@ -30,7 +29,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 My latest projects
 
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - su-exec is a very minimal re-write of gosu in C, making for a much smaller binary.
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code.
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
@@ -50,6 +48,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [Fix #23; build binaries for multiple platforms using Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (today)
 - [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -59,7 +58,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/331) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Introducing hooks](https://github.com/shinsenter/php/pull/330) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Allow hooks in the application folder](https://github.com/shinsenter/php/pull/329) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Fix Laravel hook](https://github.com/shinsenter/php/pull/328) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
