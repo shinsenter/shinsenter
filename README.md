@@ -48,7 +48,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [Fix #23; build binaries for multiple platforms using Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (today)
+- [Build cross-platform binaries with Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (today)
 - [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -63,11 +63,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### ⭐️ Recent stars
 
+- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (today)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (11 months ago)
 - [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (11 months ago)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (1 year ago)
-- [d2l-ai/d2l-vi](https://github.com/d2l-ai/d2l-vi) - Một cuốn sách về Học Sâu đề cập đến nhiều framework phổ biến, được sử dụng trên 300 trường Đại học từ 55 đất nước bao gồm MIT, Stanford, Harvard, và Cambridge. (1 year ago)
 
 ---
 
