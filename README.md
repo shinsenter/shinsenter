@@ -48,6 +48,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/342) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/341) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/340) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix Nginx and Apache services](https://github.com/shinsenter/php/pull/339) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -57,7 +58,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix build errors](https://github.com/shinsenter/php/pull/334) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Use ARM-compatible su-exec binaries](https://github.com/shinsenter/php/pull/333) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
