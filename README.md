@@ -23,7 +23,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (2 weeks ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (2 weeks ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 weeks ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 weeks ago)
 
 ---
 
@@ -42,28 +42,28 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 2 weeks ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 3 weeks ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/343) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/342) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/341) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/340) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix Nginx and Apache services](https://github.com/shinsenter/php/pull/339) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [Build cross-platform binaries with Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (4 days ago)
-- [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/343) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/342) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/341) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/340) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix Nginx and Apache services](https://github.com/shinsenter/php/pull/339) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [Build cross-platform binaries with Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (5 days ago)
+- [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Allow multiple servers for each framework](https://github.com/shinsenter/php/pull/337) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
+- [[5.x] Fix build errors (on Ubuntu)](https://github.com/shinsenter/php/pull/336) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix build workflow](https://github.com/shinsenter/php/pull/335) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (4 days ago)
+- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (5 days ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (11 months ago)
 - [songdongsheng/su-exec](https://github.com/songdongsheng/su-exec) - set user and group, then exec (1 year ago)
