@@ -49,6 +49,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/347) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix installing Composer packages on boot](https://github.com/shinsenter/php/pull/346) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve the FrankenPHP variant](https://github.com/shinsenter/php/pull/345) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/344) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -58,7 +59,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/340) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix Nginx and Apache services](https://github.com/shinsenter/php/pull/339) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [Build cross-platform binaries with Docker](https://github.com/ncopa/su-exec/pull/41) on [ncopa/su-exec](https://github.com/ncopa/su-exec) (1 week ago)
-- [[5.x] Refactor workflows](https://github.com/shinsenter/php/pull/338) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
