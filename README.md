@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (2 days ago)
 - [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (2 weeks ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (3 weeks ago)
@@ -49,6 +49,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/348) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [fix: build commands disappeared](https://github.com/devthefuture-org/dockerfile-x/pull/20) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (today)
 - [fix: preserve dockerfile instructions](https://github.com/devthefuture-org/dockerfile-x/pull/19) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (1 day ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/347) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix installing Composer packages on boot](https://github.com/shinsenter/php/pull/346) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
@@ -57,8 +59,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/343) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/342) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/341) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/340) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Fix Nginx and Apache services](https://github.com/shinsenter/php/pull/339) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
