@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [feat: include args envs labels from file](https://github.com/devthefuture-org/dockerfile-x/pull/21) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (1 day ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/347) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix installing Composer packages on boot](https://github.com/shinsenter/php/pull/346) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Improve the FrankenPHP variant](https://github.com/shinsenter/php/pull/345) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/344) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
