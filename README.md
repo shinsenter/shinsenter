@@ -23,7 +23,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (2 days ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (6 days ago)
-- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code. (3 weeks ago)
+- [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (3 weeks ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (4 weeks ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (4 weeks ago)
 
@@ -32,7 +32,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 My latest projects
 
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
-- [shinsenter/playground](https://github.com/shinsenter/playground) - My playground with code.
+- [shinsenter/play](https://github.com/shinsenter/play) - My playground with code.
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
 - [shinsenter/defer-laravel](https://github.com/shinsenter/defer-laravel) - 🚀 A Laravel package that focuses on minimizing payload size of HTML document and optimizing processing on the browser when rendering the web page.
