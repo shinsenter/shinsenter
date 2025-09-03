@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve internal health checker](https://github.com/shinsenter/php/pull/357) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add support for starting sshd with environment variables](https://github.com/shinsenter/php/pull/355) on [shinsenter/php](https://github.com/shinsenter/php) (today)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (4 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [feat: include args envs labels from file](https://github.com/devthefuture-org/dockerfile-x/pull/21) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
 
 ---
 
