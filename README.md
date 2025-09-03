@@ -50,6 +50,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Improve internal health checker](https://github.com/shinsenter/php/pull/357) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Add support for starting sshd with environment variables](https://github.com/shinsenter/php/pull/355) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Remove redundant command argument (fix #353)](https://github.com/shinsenter/php/pull/354) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix build arguments](https://github.com/shinsenter/php/pull/352) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
@@ -58,8 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [feat: include args envs labels from file](https://github.com/devthefuture-org/dockerfile-x/pull/21) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/348) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [fix: build commands disappeared](https://github.com/devthefuture-org/dockerfile-x/pull/20) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (6 days ago)
 
 ---
 
