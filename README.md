@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Also install procps for Alpine](https://github.com/shinsenter/php/pull/362) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix typo in the Apache service](https://github.com/shinsenter/php/pull/361) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix build arguments](https://github.com/shinsenter/php/pull/352) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [fix: known vulnerabilities (reup / reported in #29) ](https://github.com/devthefuture-org/dockerfile-x/pull/23) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
 - [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
