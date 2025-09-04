@@ -20,8 +20,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
-- [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (4 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (5 days ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 week ago)
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (3 weeks ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 month ago)
@@ -50,22 +50,22 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Improve internal health checker](https://github.com/shinsenter/php/pull/357) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Add support for starting sshd with environment variables](https://github.com/shinsenter/php/pull/355) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Remove redundant command argument (fix #353)](https://github.com/shinsenter/php/pull/354) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix build arguments](https://github.com/shinsenter/php/pull/352) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [fix: known vulnerabilities (reup / reported in #29) ](https://github.com/devthefuture-org/dockerfile-x/pull/23) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (4 days ago)
-- [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (4 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Improve internal health checker](https://github.com/shinsenter/php/pull/357) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Add support for starting sshd with environment variables](https://github.com/shinsenter/php/pull/355) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Remove redundant command argument (fix #353)](https://github.com/shinsenter/php/pull/354) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Fix build arguments](https://github.com/shinsenter/php/pull/352) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [fix: known vulnerabilities (reup / reported in #29) ](https://github.com/devthefuture-org/dockerfile-x/pull/23) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
+- [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [prime-strategy/kusanagi-docker](https://github.com/prime-strategy/kusanagi-docker) - KUSANAGI for Docker (2 days ago)
+- [prime-strategy/kusanagi-docker](https://github.com/prime-strategy/kusanagi-docker) - KUSANAGI for Docker (3 days ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (2 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (11 months ago)
