@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (5 days ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 week ago)
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (3 weeks ago)
@@ -50,6 +50,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix typo in the Apache service](https://github.com/shinsenter/php/pull/361) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Improve internal health checker](https://github.com/shinsenter/php/pull/357) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
@@ -59,7 +60,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [fix: known vulnerabilities (reup / reported in #29) ](https://github.com/devthefuture-org/dockerfile-x/pull/23) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
 - [fix: known vulnerabilities (reported in #29)](https://github.com/devthefuture-org/dockerfile-x/pull/22) on [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) (5 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/351) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Add support for Debian 13 (Trixie)](https://github.com/shinsenter/php/pull/350) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
