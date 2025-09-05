@@ -19,7 +19,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 ---
 
 #### 🍊 What I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -40,7 +40,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 ---
 
 #### 🍊 Latest PRs I published
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
