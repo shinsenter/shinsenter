@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (1 week ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (2 weeks ago)
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (1 month ago)
@@ -50,11 +50,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix paths when container starts](https://github.com/shinsenter/php/pull/366) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix the ownership script](https://github.com/shinsenter/php/pull/365) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Also install procps for Alpine](https://github.com/shinsenter/php/pull/362) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix typo in the Apache service](https://github.com/shinsenter/php/pull/361) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 - [[5.x] Fix locked account when connecting via SSH](https://github.com/shinsenter/php/pull/359) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Fix bug when creating bash profile settings](https://github.com/shinsenter/php/pull/358) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
