@@ -50,17 +50,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix paths when container starts](https://github.com/shinsenter/php/pull/366) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix the ownership script](https://github.com/shinsenter/php/pull/365) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Also install procps for Alpine](https://github.com/shinsenter/php/pull/362) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Fix typo in the Apache service](https://github.com/shinsenter/php/pull/361) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix paths when container starts](https://github.com/shinsenter/php/pull/366) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix the ownership script](https://github.com/shinsenter/php/pull/365) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Also install procps for Alpine](https://github.com/shinsenter/php/pull/362) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
+- [[5.x] Fix typo in the Apache service](https://github.com/shinsenter/php/pull/361) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (today)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 day ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (3 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (1 year ago)
