@@ -50,11 +50,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/369) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix paths when container starts](https://github.com/shinsenter/php/pull/366) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix the ownership script](https://github.com/shinsenter/php/pull/365) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Also install procps for Alpine](https://github.com/shinsenter/php/pull/362) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
