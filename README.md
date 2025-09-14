@@ -50,11 +50,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/369) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
