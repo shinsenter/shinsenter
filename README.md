@@ -50,18 +50,18 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/369) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/369) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Fix issue in #367](https://github.com/shinsenter/php/pull/368) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 days ago)
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (3 days ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 days ago)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (4 days ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (3 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (2 months ago)
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (1 year ago)
