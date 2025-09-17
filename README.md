@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (2 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (3 weeks ago)
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (1 month ago)
@@ -50,11 +50,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/369) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
