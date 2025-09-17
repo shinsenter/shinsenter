@@ -60,11 +60,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### ⭐️ Recent stars
 
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (today)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 days ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 week ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (4 weeks ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (3 months ago)
-- [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (1 year ago)
 
 ---
 
