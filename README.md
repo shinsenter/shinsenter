@@ -50,20 +50,20 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (today)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 days ago)
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (1 day ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 week ago)
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (4 weeks ago)
+- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (1 month ago)
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions (3 months ago)
 
 ---
