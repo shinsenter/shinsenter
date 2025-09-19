@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (today)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 day ago)
 - [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x) - Dockerfile factorization superset (2 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (3 weeks ago)
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code. (1 month ago)
@@ -50,17 +50,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[5.x] Improve startup time](https://github.com/shinsenter/php/pull/372) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
+- [[5.x] Fix bash profile directory](https://github.com/shinsenter/php/pull/371) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix shebang for utility scripts](https://github.com/shinsenter/php/pull/370) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (1 day ago)
+- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (2 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 week ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 week ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (1 month ago)
