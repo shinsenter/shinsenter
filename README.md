@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily. (1 week ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (3 weeks ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (3 weeks ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (3 weeks ago)
@@ -33,7 +33,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code.
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner, FrankenPHP, and Nginx Unit variants, available in both Debian and Alpine. Built daily.
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 (beta) in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
 - [shinsenter/defer-laravel](https://github.com/shinsenter/defer-laravel) - 🚀 A Laravel package that focuses on minimizing payload size of HTML document and optimizing processing on the browser when rendering the web page.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
@@ -50,11 +50,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Remove the Nginx Unit variant (the repository has been archived)](https://github.com/shinsenter/php/pull/382) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Fix bugs in Apache custom configuration](https://github.com/shinsenter/php/pull/379) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix large php 8.5 images](https://github.com/shinsenter/php/pull/377) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Add docker images for Bagisto and Matomo](https://github.com/shinsenter/php/pull/376) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Fix wrong output when running with-env](https://github.com/shinsenter/php/pull/373) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 
 ---
 
