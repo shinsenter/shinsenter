@@ -53,7 +53,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Remove the Nginx Unit variant (the repository has been archived)](https://github.com/shinsenter/php/pull/382) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix bugs in Apache custom configuration](https://github.com/shinsenter/php/pull/379) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Fix large php 8.5 images](https://github.com/shinsenter/php/pull/377) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
-- [[5.x] Add docker images for Bagisto and Matomo](https://github.com/shinsenter/php/pull/376) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
+- [[5.x] Add docker images for Bagisto and Matomo](https://github.com/shinsenter/php/pull/376) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Fix docker entry-point](https://github.com/shinsenter/php/pull/374) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 
 ---
