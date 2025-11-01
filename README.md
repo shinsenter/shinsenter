@@ -44,13 +44,13 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 2 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 3 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Get ready for PHP 8.5](https://github.com/shinsenter/php/pull/384) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Get ready for PHP 8.5](https://github.com/shinsenter/php/pull/384) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Remove the Nginx Unit variant (the repository has been archived)](https://github.com/shinsenter/php/pull/382) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Fix bugs in Apache custom configuration](https://github.com/shinsenter/php/pull/379) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Fix large php 8.5 images](https://github.com/shinsenter/php/pull/377) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
@@ -60,7 +60,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### ⭐️ Recent stars
 
-- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (4 weeks ago)
+- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (1 month ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (1 month ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 month ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (1 month ago)
