@@ -62,7 +62,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 - [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (1 month ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (1 month ago)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 month ago)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 months ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 months ago)
 - [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (2 months ago)
 
