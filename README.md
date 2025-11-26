@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (6 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (today)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (2 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (2 months ago)
@@ -51,11 +51,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Update PEAR](https://github.com/shinsenter/php/pull/392) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Get ready for PHP 8.5](https://github.com/shinsenter/php/pull/384) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Remove the Nginx Unit variant (the repository has been archived)](https://github.com/shinsenter/php/pull/382) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Fix bugs in Apache custom configuration](https://github.com/shinsenter/php/pull/379) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
-- [[5.x] Fix large php 8.5 images](https://github.com/shinsenter/php/pull/377) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 
 ---
 
