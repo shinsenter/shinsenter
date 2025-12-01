@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (4 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (2 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (2 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (2 months ago)
@@ -45,23 +45,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.6.0](https://github.com/shinsenter/php/releases/tag/5.6.0), 1 week ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 3 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 4 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Temporary workaround for installing igbinary](https://github.com/shinsenter/php/pull/397) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Remove beta job from template-php.yml](https://github.com/shinsenter/php/pull/396) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Temporary workaround for installing igbinary](https://github.com/shinsenter/php/pull/397) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Remove beta job from template-php.yml](https://github.com/shinsenter/php/pull/396) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 - [[5.x] Update PEAR](https://github.com/shinsenter/php/pull/392) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (1 month ago)
+- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (2 months ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (2 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (2 months ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 months ago)
