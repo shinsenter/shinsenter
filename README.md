@@ -54,7 +54,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Temporary workaround for installing igbinary](https://github.com/shinsenter/php/pull/397) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
 - [[5.x] Remove beta job from template-php.yml](https://github.com/shinsenter/php/pull/396) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
-- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (2 weeks ago)
+- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 - [[5.x] Update PEAR](https://github.com/shinsenter/php/pull/392) on [shinsenter/php](https://github.com/shinsenter/php) (3 weeks ago)
 
 ---
@@ -65,7 +65,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (3 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (3 months ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (3 months ago)
-- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (3 months ago)
+- [shinsenter/su-exec](https://github.com/shinsenter/su-exec) - Switch user and group, then exec (binaries only). (4 months ago)
 
 ---
 
