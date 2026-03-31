@@ -45,7 +45,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.6.0](https://github.com/shinsenter/php/releases/tag/5.6.0), 4 months ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 7 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
+- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 8 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
@@ -61,7 +61,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### ⭐️ Recent stars
 
-- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (5 months ago)
+- [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (6 months ago)
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP. (6 months ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (6 months ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (6 months ago)
