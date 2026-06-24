@@ -55,13 +55,13 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
 - [[5.x] Temporary workaround for installing igbinary](https://github.com/shinsenter/php/pull/397) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
 - [[5.x] Remove beta job from template-php.yml](https://github.com/shinsenter/php/pull/396) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
-- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
+- [fix: remove cleanup of /usr/share/zoneinfo directory (issue #394)](https://github.com/shinsenter/php/pull/395) on [shinsenter/php](https://github.com/shinsenter/php) (7 months ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs. (6 days ago)
+- [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs. (1 week ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 week ago)
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3&#43; for Photoshop Users (2 weeks ago)
 - [fsylum/rector-wordpress](https://github.com/fsylum/rector-wordpress) - Rector upgrade rules for WordPress (8 months ago)
