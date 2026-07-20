@@ -20,7 +20,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily. (4 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (10 months ago)
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (10 months ago)
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (10 months ago)
@@ -44,16 +44,16 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.7.0](https://github.com/shinsenter/php/releases/tag/5.7.0), 3 days ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.7.0](https://github.com/shinsenter/php/releases/tag/5.7.0), 4 days ago) - 📦 Simplified PHP Docker images for easy customization and extension setup. Supports PHP 5.6 to 8.5 in CLI, ZTS, FPM, FPM/Apache2, FPM/Nginx, RoadRunner and FrankenPHP variants, available in both Debian and Alpine. Built daily.
 - [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 11 months ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Remove temporary workaround, bump s6-overlay v3.2.3.2](https://github.com/shinsenter/php/pull/429) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[5.x] Fix s6-overlay v3.2.3.1 by hard-coding s6-overlay v3.2.3.0 (temporary workaround)](https://github.com/shinsenter/php/pull/427) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [fix: support s6-overlay 3.2.3.1 user-bundles (improves #425)](https://github.com/shinsenter/php/pull/426) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[5.x] Remove temporary workaround, bump s6-overlay v3.2.3.2](https://github.com/shinsenter/php/pull/429) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[5.x] Fix s6-overlay v3.2.3.1 by hard-coding s6-overlay v3.2.3.0 (temporary workaround)](https://github.com/shinsenter/php/pull/427) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [fix: support s6-overlay 3.2.3.1 user-bundles (improves #425)](https://github.com/shinsenter/php/pull/426) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[5.x] Fix composer&#39;s vendor directory path](https://github.com/shinsenter/php/pull/408) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
 - [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (7 months ago)
 
@@ -62,8 +62,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### ⭐️ Recent stars
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (1 week ago)
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian &#43; Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern. (1 week ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (1 week ago)
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian &#43; Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy&#39;s LLM Wiki pattern. (2 weeks ago)
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (2 weeks ago)
 - [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) - Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs. (1 month ago)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. (1 month ago)
 
