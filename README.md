@@ -55,7 +55,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 - [[5.x] Fix s6-overlay v3.2.3.1 by hard-coding s6-overlay v3.2.3.0 (temporary workaround)](https://github.com/shinsenter/php/pull/427) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [fix: support s6-overlay 3.2.3.1 user-bundles (improves #425)](https://github.com/shinsenter/php/pull/426) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Fix composer&#39;s vendor directory path](https://github.com/shinsenter/php/pull/408) on [shinsenter/php](https://github.com/shinsenter/php) (6 months ago)
-- [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (7 months ago)
+- [[5.x] Temporary workaround for installing igbinary (re-commit)](https://github.com/shinsenter/php/pull/398) on [shinsenter/php](https://github.com/shinsenter/php) (8 months ago)
 
 ---
 
