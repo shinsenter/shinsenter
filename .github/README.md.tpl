@@ -3,7 +3,7 @@
 <p>
 <img src="https://github.com/shinsenter.png?size=600" width="300" style="border-radius:10px" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinsenter&show_icons=true&locale=en&layout=compact" width="300"  style="border-radius:10px" />
+<img src="https://komarev.com/ghpvc/?username=shinsenter&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 Nice to meet you!
