@@ -19,9 +19,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 What I'm currently working on
 
 - [shinsenter/php](https://github.com/shinsenter/php) - 📦 Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (1 month ago)
-- [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy. (1 year ago)
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals. (1 year ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers. (1 year ago)
 
 ---
 
@@ -41,7 +38,6 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 Latest releases I've contributed to
 
 - [shinsenter/php](https://github.com/shinsenter/php) ([5.7.0](https://github.com/shinsenter/php/releases/tag/5.7.0), 2 months ago) - 📦 Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
-- [shinsenter/defer.js](https://github.com/shinsenter/defer.js) ([3.9.0](https://github.com/shinsenter/defer.js/releases/tag/3.9.0), 1 year ago) - 🥇 A small JavaScript library to lazy-load almost anything. Defer.js is dependency-free, efficient, and optimized for Web Vitals.
 
 ---
 
