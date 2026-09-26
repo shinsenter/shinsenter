@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (2 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (3 days ago)
 
 ---
 
@@ -43,7 +43,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Temporarily disable mautic builds](https://github.com/shinsenter/php/pull/433) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Temporarily disable mautic builds](https://github.com/shinsenter/php/pull/433) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[5.x] Add PHP 8.6 RC](https://github.com/shinsenter/php/pull/430) on [shinsenter/php](https://github.com/shinsenter/php) (1 month ago)
 - [[5.x] Remove temporary workaround, bump s6-overlay v3.2.3.2](https://github.com/shinsenter/php/pull/429) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Fix s6-overlay v3.2.3.1 by hard-coding s6-overlay v3.2.3.0 (temporary workaround)](https://github.com/shinsenter/php/pull/427) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
