@@ -53,7 +53,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### ⭐️ Recent stars
 
-- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins (1 month ago)
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins (2 months ago)
 - [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (2 months ago)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
