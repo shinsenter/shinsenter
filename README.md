@@ -37,13 +37,13 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.8.0](https://github.com/shinsenter/php/releases/tag/5.8.0), today) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.8.0](https://github.com/shinsenter/php/releases/tag/5.8.0), 1 day ago) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Rebuild images only when their inputs change](https://github.com/shinsenter/php/pull/435) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[5.x] Rebuild images only when their inputs change](https://github.com/shinsenter/php/pull/435) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Temporarily disable mautic builds](https://github.com/shinsenter/php/pull/433) on [shinsenter/php](https://github.com/shinsenter/php) (4 weeks ago)
 - [[5.x] Add PHP 8.6 RC](https://github.com/shinsenter/php/pull/430) on [shinsenter/php](https://github.com/shinsenter/php) (2 months ago)
 - [[5.x] Remove temporary workaround, bump s6-overlay v3.2.3.2](https://github.com/shinsenter/php/pull/429) on [shinsenter/php](https://github.com/shinsenter/php) (3 months ago)
