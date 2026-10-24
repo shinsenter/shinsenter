@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (today)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (1 day ago)
 
 ---
 
@@ -37,17 +37,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([5.8.0](https://github.com/shinsenter/php/releases/tag/5.8.0), 2 days ago) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
+- [shinsenter/php](https://github.com/shinsenter/php) ([5.8.0](https://github.com/shinsenter/php/releases/tag/5.8.0), 3 days ago) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[5.x] Skip required modules check for pre-release PHP versions](https://github.com/shinsenter/php/pull/440) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/439) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/438) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Temporarily disable magento builds](https://github.com/shinsenter/php/pull/437) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[5.x] Rebuild images only when their inputs change](https://github.com/shinsenter/php/pull/435) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Skip required modules check for pre-release PHP versions](https://github.com/shinsenter/php/pull/440) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/439) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/438) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Temporarily disable magento builds](https://github.com/shinsenter/php/pull/437) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[5.x] Rebuild images only when their inputs change](https://github.com/shinsenter/php/pull/435) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
