@@ -43,11 +43,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[5.x] Apply security fixes, improve workflows](https://github.com/shinsenter/php/pull/441) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[5.x] Skip required modules check for pre-release PHP versions](https://github.com/shinsenter/php/pull/440) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/439) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/438) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[5.x] Temporarily disable magento builds](https://github.com/shinsenter/php/pull/437) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[5.x] Rebuild images only when their inputs change](https://github.com/shinsenter/php/pull/435) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
