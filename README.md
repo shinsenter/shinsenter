@@ -43,21 +43,21 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Apache and Nginx configuration options, safer defaults, test cleanup](https://github.com/shinsenter/php/pull/444) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Fix #442 and make environment variables match the docs](https://github.com/shinsenter/php/pull/443) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Apply security fixes, improve workflows](https://github.com/shinsenter/php/pull/441) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Skip required modules check for pre-release PHP versions](https://github.com/shinsenter/php/pull/440) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 - [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/439) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/438) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins (2 months ago)
-- [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) (2 months ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (today)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (2 months ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (3 months ago)
 
 ---
 
