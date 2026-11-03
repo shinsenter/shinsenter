@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (today)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 
 ---
 
@@ -26,7 +26,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code.
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
 - [shinsenter/defer-laravel](https://github.com/shinsenter/defer-laravel) - 🚀 A Laravel package that focuses on minimizing payload size of HTML document and optimizing processing on the browser when rendering the web page.
 - [shinsenter/defer-wordpress](https://github.com/shinsenter/defer-wordpress) - 🔌A Wordpress plugin integrating my beloved &#34;defer.js&#34; library into your websites. Hope you guys like it.
@@ -37,7 +37,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), today) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
+- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), today) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 
 ---
 
