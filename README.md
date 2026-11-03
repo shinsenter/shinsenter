@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (1 week ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine. (today)
 
 ---
 
@@ -37,17 +37,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([6.0.0](https://github.com/shinsenter/php/releases/tag/6.0.0), 1 week ago) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
+- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), today) - Lightweight PHP Docker images designed for easy customization and simple extension management.  Our images support PHP versions from 5.6 up to 8.6 (RC), with variants for CLI, ZTS, FPM, FPM/Apache, FPM/Nginx, RoadRunner, and FrankenPHP. Images are available for both Debian and Alpine.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Apache and Nginx configuration options, safer defaults, test cleanup](https://github.com/shinsenter/php/pull/444) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Fix #442 and make environment variables match the docs](https://github.com/shinsenter/php/pull/443) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Apply security fixes, improve workflows](https://github.com/shinsenter/php/pull/441) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Skip required modules check for pre-release PHP versions](https://github.com/shinsenter/php/pull/440) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
-- [[5.x] Some minor enhancements](https://github.com/shinsenter/php/pull/439) on [shinsenter/php](https://github.com/shinsenter/php) (1 week ago)
+- [[6.x] Build Nginx with --with-debug so debug error_log works](https://github.com/shinsenter/php/pull/449) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Keep pcre2 on Alpine for Nginx build, restructure README](https://github.com/shinsenter/php/pull/448) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Release 6.1.0](https://github.com/shinsenter/php/pull/447) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [revert: Apache and Nginx configuration options, safer defaults, test cleanup (#444)](https://github.com/shinsenter/php/pull/446) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [fix(docker): do not serve dotfiles from the default Caddyfile](https://github.com/php/frankenphp/pull/2804) on [php/frankenphp](https://github.com/php/frankenphp) (today)
 
 ---
 
