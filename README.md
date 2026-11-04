@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 
 ---
 
@@ -43,11 +43,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Slim images by removing build leftovers, nginx.old, terminfo and vim-tiny](https://github.com/shinsenter/php/pull/450) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Build Nginx with --with-debug so debug error_log works](https://github.com/shinsenter/php/pull/449) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Keep pcre2 on Alpine for Nginx build, restructure README](https://github.com/shinsenter/php/pull/448) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Release 6.1.0](https://github.com/shinsenter/php/pull/447) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [revert: Apache and Nginx configuration options, safer defaults, test cleanup (#444)](https://github.com/shinsenter/php/pull/446) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [fix(docker): do not serve dotfiles from the default Caddyfile](https://github.com/php/frankenphp/pull/2804) on [php/frankenphp](https://github.com/php/frankenphp) (1 day ago)
 
 ---
 
