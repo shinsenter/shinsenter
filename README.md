@@ -37,23 +37,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), 1 day ago) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
+- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), 2 days ago) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Slim images by removing build leftovers, nginx.old, terminfo and vim-tiny](https://github.com/shinsenter/php/pull/450) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[6.x] Build Nginx with --with-debug so debug error_log works](https://github.com/shinsenter/php/pull/449) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Keep pcre2 on Alpine for Nginx build, restructure README](https://github.com/shinsenter/php/pull/448) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Release 6.1.0](https://github.com/shinsenter/php/pull/447) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [revert: Apache and Nginx configuration options, safer defaults, test cleanup (#444)](https://github.com/shinsenter/php/pull/446) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[6.x] Keep perl when other packages need it in the cleanup hook (#451)](https://github.com/shinsenter/php/pull/452) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Slim images by removing build leftovers, nginx.old, terminfo and vim-tiny](https://github.com/shinsenter/php/pull/450) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[6.x] Build Nginx with --with-debug so debug error_log works](https://github.com/shinsenter/php/pull/449) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Keep pcre2 on Alpine for Nginx build, restructure README](https://github.com/shinsenter/php/pull/448) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Release 6.1.0](https://github.com/shinsenter/php/pull/447) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 days ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 days ago)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (2 months ago)
