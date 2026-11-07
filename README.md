@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 
 ---
 
@@ -43,11 +43,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [docs: restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [chore: speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [feat: restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [fix: trust no proxy by default in Nginx and Apache again (#456)](https://github.com/shinsenter/php/pull/457) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [fix: keep sshd password auth off for accounts without a password (#454)](https://github.com/shinsenter/php/pull/455) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Keep /var/tmp/nginx in the cleanup so Nginx starts on old Alpine](https://github.com/shinsenter/php/pull/453) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Keep perl when other packages need it in the cleanup hook (#451)](https://github.com/shinsenter/php/pull/452) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Slim images by removing build leftovers, nginx.old, terminfo and vim-tiny](https://github.com/shinsenter/php/pull/450) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[6.x] Build Nginx with --with-debug so debug error_log works](https://github.com/shinsenter/php/pull/449) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
