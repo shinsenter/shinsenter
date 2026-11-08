@@ -37,23 +37,23 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), 4 days ago) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
+- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), 5 days ago) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 
 ---
 
 #### 🍊 Latest PRs I published
 
-- [docs: restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [chore: speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [feat: restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [fix: trust no proxy by default in Nginx and Apache again (#456)](https://github.com/shinsenter/php/pull/457) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [fix: keep sshd password auth off for accounts without a password (#454)](https://github.com/shinsenter/php/pull/455) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [docs: restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [chore: speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [feat: restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [fix: trust no proxy by default in Nginx and Apache again (#456)](https://github.com/shinsenter/php/pull/457) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [fix: keep sshd password auth off for accounts without a password (#454)](https://github.com/shinsenter/php/pull/455) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (5 days ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (6 days ago)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (2 months ago)
