@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 
 ---
 
@@ -43,11 +43,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [docs: restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [chore: speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [feat: restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [fix: trust no proxy by default in Nginx and Apache again (#456)](https://github.com/shinsenter/php/pull/457) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [fix: keep sshd password auth off for accounts without a password (#454)](https://github.com/shinsenter/php/pull/455) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[6.x] Stop attaching intermediate stage SBOMs to the published images](https://github.com/shinsenter/php/pull/462) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Stop rebuilding old PHP images and raise dockerfile-x dependencies](https://github.com/shinsenter/php/pull/461) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
