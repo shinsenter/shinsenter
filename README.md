@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (2 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (3 days ago)
 
 ---
 
@@ -43,18 +43,18 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Stop attaching intermediate stage SBOMs to the published images](https://github.com/shinsenter/php/pull/462) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Stop rebuilding old PHP images and raise dockerfile-x dependencies](https://github.com/shinsenter/php/pull/461) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[6.x] Stop attaching intermediate stage SBOMs to the published images](https://github.com/shinsenter/php/pull/462) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[6.x] Stop rebuilding old PHP images and raise dockerfile-x dependencies](https://github.com/shinsenter/php/pull/461) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[6.x] Restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[6.x] Speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[6.x] Restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (1 day ago)
-- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (2 days ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (2 days ago)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (3 days ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. (2 months ago)
