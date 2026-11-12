@@ -18,13 +18,14 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (today)
 
 ---
 
 #### 🍊 My latest projects
 
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A simple shell script provides an alternative to Docker&#39;s experimental --squash option for building optimized Docker images by squashing layers.
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points.
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code.
 - [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 - [shinsenter/docker-imgproxy](https://github.com/shinsenter/docker-imgproxy) - 🌐 An ultra fast, production-grade on-the-fly image processing web server. Designed for high throughput with Nginx caching. Powered by imgproxy.
@@ -43,11 +44,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [chore: run tests only when the script or tests change](https://github.com/shinsenter/docker-squash/pull/10) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (today)
+- [feat: read default pre-squash scripts from image env](https://github.com/shinsenter/docker-squash/pull/9) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (today)
+- [fix: keep image metadata intact when squashing](https://github.com/shinsenter/docker-squash/pull/8) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (today)
 - [[6.x] Stop attaching intermediate stage SBOMs to the published images](https://github.com/shinsenter/php/pull/462) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[6.x] Stop rebuilding old PHP images and raise dockerfile-x dependencies](https://github.com/shinsenter/php/pull/461) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[6.x] Restore the cleanup line in the 6.1.0 changelog](https://github.com/shinsenter/php/pull/460) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[6.x] Speed up the build workflow and move the unreleased notes into 6.1.0](https://github.com/shinsenter/php/pull/459) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
-- [[6.x] Restore 6.0 defaults for proxies, SMTP, sessions, Apache and Nginx](https://github.com/shinsenter/php/pull/458) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
