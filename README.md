@@ -44,11 +44,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [chore: run tests only when the script or tests change](https://github.com/shinsenter/docker-squash/pull/10) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (1 day ago)
 - [feat: read default pre-squash scripts from image env](https://github.com/shinsenter/docker-squash/pull/9) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (1 day ago)
-- [fix: keep image metadata intact when squashing](https://github.com/shinsenter/docker-squash/pull/8) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (1 day ago)
-- [[6.x] Stop attaching intermediate stage SBOMs to the published images](https://github.com/shinsenter/php/pull/462) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
