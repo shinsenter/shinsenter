@@ -18,8 +18,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (2 days ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (3 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (3 days ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (4 days ago)
 
 ---
 
@@ -44,21 +44,21 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [chore: run tests only when the script or tests change](https://github.com/shinsenter/docker-squash/pull/10) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (3 days ago)
-- [feat: read default pre-squash scripts from image env](https://github.com/shinsenter/docker-squash/pull/9) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (3 days ago)
+- [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
+- [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [chore: run tests only when the script or tests change](https://github.com/shinsenter/docker-squash/pull/10) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (4 days ago)
+- [feat: read default pre-squash scripts from image env](https://github.com/shinsenter/docker-squash/pull/9) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (4 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (today)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (5 days ago)
-- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (6 days ago)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
-- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (2 months ago)
+- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (1 day ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (6 days ago)
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (1 week ago)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 weeks ago)
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. (3 months ago)
 
 ---
 
