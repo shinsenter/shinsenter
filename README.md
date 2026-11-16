@@ -18,8 +18,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no downtime and no manual steps. (today)
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (3 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (4 days ago)
 
 ---
@@ -46,11 +46,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Traefik fixes, PHP_INI_ and PHP_FPM_ names, docs site](https://github.com/shinsenter/php/pull/466) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] TRUSTED_PROXIES private shortcut, Traefik guide, settings docs](https://github.com/shinsenter/php/pull/467) on [shinsenter/php](https://github.com/shinsenter/php) (today)
+- [[6.x] Fix vim-tiny CVE, Traefik keep-alive and labels](https://github.com/shinsenter/php/pull/466) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [chore: run tests only when the script or tests change](https://github.com/shinsenter/docker-squash/pull/10) on [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) (4 days ago)
 
 ---
 
