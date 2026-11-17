@@ -18,15 +18,15 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
+- [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (today)
 - [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
-- [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no downtime and no manual steps. (1 day ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (5 days ago)
 
 ---
 
 #### 🍊 My latest projects
 
-- [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no downtime and no manual steps.
+- [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases.
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points.
 - [shinsenter/play](https://github.com/shinsenter/play) - My playground with code.
 - [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
@@ -40,17 +40,16 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest releases I've contributed to
 
-- [shinsenter/php](https://github.com/shinsenter/php) ([6.1.0](https://github.com/shinsenter/php/releases/tag/6.1.0), 2 weeks ago) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required.
 
 ---
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Release 6.2.0: support PHP 8.6](https://github.com/shinsenter/php/pull/468) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] TRUSTED_PROXIES private shortcut, Traefik guide, settings docs](https://github.com/shinsenter/php/pull/467) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Fix vim-tiny CVE, Traefik keep-alive and labels](https://github.com/shinsenter/php/pull/466) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Build Nginx with the brotli module and HTTP/3](https://github.com/shinsenter/php/pull/463) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
