@@ -19,8 +19,8 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 #### 🍊 What I'm currently working on
 
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (today)
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
-- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (5 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (2 days ago)
+- [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (6 days ago)
 
 ---
 
@@ -45,17 +45,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Release 6.2.0: support PHP 8.6](https://github.com/shinsenter/php/pull/468) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[6.x] TRUSTED_PROXIES private shortcut, Traefik guide, settings docs](https://github.com/shinsenter/php/pull/467) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Fix vim-tiny CVE, Traefik keep-alive and labels](https://github.com/shinsenter/php/pull/466) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[6.x] Release 6.2.0: support PHP 8.6](https://github.com/shinsenter/php/pull/468) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[6.x] TRUSTED_PROXIES private shortcut, Traefik guide, settings docs](https://github.com/shinsenter/php/pull/467) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Fix vim-tiny CVE, Traefik keep-alive and labels](https://github.com/shinsenter/php/pull/466) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Build Apache from source, share agent docs, cut startup work](https://github.com/shinsenter/php/pull/465) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[6.x] Sign and compress images, scope the fingerprint, add six webapps and a workflow check](https://github.com/shinsenter/php/pull/464) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (2 days ago)
+- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (3 days ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (1 week ago)
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (1 week ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 weeks ago)
