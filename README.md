@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (2 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (1 week ago)
 
@@ -46,11 +46,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Keep latest on PHP 8.5 in the 6.3.0 notes](https://github.com/shinsenter/php/pull/477) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[6.x] Point latest back to PHP 8.5](https://github.com/shinsenter/php/pull/476) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[6.x] Add arm/v7 images, fix Apache modules and cut workflow cost](https://github.com/shinsenter/php/pull/474) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[6.x] Run watch-updates every 10 minutes](https://github.com/shinsenter/php/pull/473) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
-- [[6.x] Revert apk record change of curl and brotli](https://github.com/shinsenter/php/pull/472) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 
 ---
 
