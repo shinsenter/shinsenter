@@ -46,11 +46,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Keep Apache tools and publish digests by exact artifact name](https://github.com/shinsenter/php/pull/482) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Keep latest on PHP 8.5 in the 6.3.0 notes](https://github.com/shinsenter/php/pull/477) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[6.x] Point latest back to PHP 8.5](https://github.com/shinsenter/php/pull/476) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[6.x] Add arm/v7 images, fix Apache modules and cut workflow cost](https://github.com/shinsenter/php/pull/474) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[6.x] Run watch-updates every 10 minutes](https://github.com/shinsenter/php/pull/473) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 
 ---
 
