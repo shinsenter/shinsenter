@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (1 day ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (4 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (1 week ago)
 
@@ -46,21 +46,21 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Backport the CVE fixes to PHP 7.0 to 7.2 and fix the build](https://github.com/shinsenter/php/pull/485) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Keep Apache tools and publish digests by exact artifact name](https://github.com/shinsenter/php/pull/482) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
 - [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[6.x] Keep latest on PHP 8.5 in the 6.3.0 notes](https://github.com/shinsenter/php/pull/477) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[6.x] Point latest back to PHP 8.5](https://github.com/shinsenter/php/pull/476) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Add arm/v7 images, fix Apache modules and cut workflow cost](https://github.com/shinsenter/php/pull/474) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
+- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (today)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (6 days ago)
 - [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (1 week ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (2 weeks ago)
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own. (2 weeks ago)
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (3 weeks ago)
 
 ---
 
