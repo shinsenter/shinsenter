@@ -18,7 +18,7 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 What I'm currently working on
 
-- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (2 days ago)
+- [shinsenter/php](https://github.com/shinsenter/php) - Lightweight production-ready Docker images for PHP 5.6 to 8.6 (RC) on Debian and Alpine,  designed for easy customization and simple extension management. No image rebuild required. (today)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (6 days ago)
 - [shinsenter/docker-squash](https://github.com/shinsenter/docker-squash) - A single shell script that squashes Docker image layers into a single layer, reducing storage space and improving runtime performance by decreasing mount points. (2 weeks ago)
 
@@ -46,11 +46,11 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
+- [[6.x] Fix php8 alias and digest download logging, shorten docs](https://github.com/shinsenter/php/pull/486) on [shinsenter/php](https://github.com/shinsenter/php) (today)
 - [[6.x] Backport the CVE fixes to PHP 7.0 to 7.2 and fix the build](https://github.com/shinsenter/php/pull/485) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
 - [[6.x] Keep Apache tools and publish digests by exact artifact name](https://github.com/shinsenter/php/pull/482) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
 - [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
 - [[6.x] Keep latest on PHP 8.5 in the 6.3.0 notes](https://github.com/shinsenter/php/pull/477) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
-- [[6.x] Point latest back to PHP 8.5](https://github.com/shinsenter/php/pull/476) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
