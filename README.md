@@ -46,17 +46,17 @@ Currently, I'm living in Japan 🇯🇵 and enjoying the local culture in my fre
 
 #### 🍊 Latest PRs I published
 
-- [[6.x] Skip app builds below the base app minimum PHP, add the rector utility](https://github.com/shinsenter/php/pull/487) on [shinsenter/php](https://github.com/shinsenter/php) (today)
-- [[6.x] Fix php8 alias and digest download logging, shorten docs](https://github.com/shinsenter/php/pull/486) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
-- [[6.x] Backport the CVE fixes to PHP 7.0 to 7.2 and fix the build](https://github.com/shinsenter/php/pull/485) on [shinsenter/php](https://github.com/shinsenter/php) (3 days ago)
-- [[6.x] Keep Apache tools and publish digests by exact artifact name](https://github.com/shinsenter/php/pull/482) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
-- [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[6.x] Skip app builds below the base app minimum PHP, add the rector utility](https://github.com/shinsenter/php/pull/487) on [shinsenter/php](https://github.com/shinsenter/php) (1 day ago)
+- [[6.x] Fix php8 alias and digest download logging, shorten docs](https://github.com/shinsenter/php/pull/486) on [shinsenter/php](https://github.com/shinsenter/php) (2 days ago)
+- [[6.x] Backport the CVE fixes to PHP 7.0 to 7.2 and fix the build](https://github.com/shinsenter/php/pull/485) on [shinsenter/php](https://github.com/shinsenter/php) (4 days ago)
+- [[6.x] Keep Apache tools and publish digests by exact artifact name](https://github.com/shinsenter/php/pull/482) on [shinsenter/php](https://github.com/shinsenter/php) (5 days ago)
+- [[6.x] Build Apache and Nginx from source only, fix arm/v7 s6, add PHP 8.6 zts and frankenphp](https://github.com/shinsenter/php/pull/480) on [shinsenter/php](https://github.com/shinsenter/php) (6 days ago)
 
 ---
 
 #### ⭐️ Recent stars
 
-- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (3 days ago)
+- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。 (4 days ago)
 - [shinsenter/muken](https://github.com/shinsenter/muken) - Put your Docker app on a server you own, with no gap between releases. (1 week ago)
 - [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA). (1 week ago)
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Free, local plugin that keeps tool output out of your coding agent&#39;s context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry. (2 weeks ago)
